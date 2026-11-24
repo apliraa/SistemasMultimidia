@@ -5,7 +5,10 @@
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_k41lo"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_k41lo"]
-size = Vector3(6.3474884, 1, 5.112671)
+size = Vector3(19.616657, 1, 15.862961)
+
+[sub_resource type="BoxMesh" id="BoxMesh_f6wxy"]
+size = Vector3(19.671997, 1, 15.924271)
 
 [node name="Game" type="Node3D" unique_id=1462864017]
 
@@ -13,8 +16,18 @@ size = Vector3(6.3474884, 1, 5.112671)
 physics_material_override = SubResource("PhysicsMaterial_k41lo")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" unique_id=960957432]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.13311005, 0, -0.8755493)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.10212517, 0, -0.014701843)
 shape = SubResource("BoxShape3D_k41lo")
 
+[node name="MeshInstance3D" type="MeshInstance3D" parent="StaticBody3D" unique_id=1416031477]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.10565758, 0, -0.005034685)
+mesh = SubResource("BoxMesh_f6wxy")
+
 [node name="player" parent="." unique_id=1188381419 instance=ExtResource("1_sul5r")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.72077286, 0.70636845, -0.285666)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.72077286, 1.6608536, -0.285666)
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1633091515]
+transform = Transform3D(1, 0, 0, 0, 0.35928565, 0.9332277, 0, -0.9332277, 0.35928565, -0.04880202, 9.825609, 5.540533)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=320856450]
+transform = Transform3D(1, 0, 0, 0, -0.6527805, 0.75754714, 0, -0.75754714, -0.6527805, 0, 14.975109, -12.364706)
