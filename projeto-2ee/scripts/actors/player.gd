@@ -15,5 +15,10 @@ func _physics_process(delta: float) -> void:
 	else:
 		velocity.x = move_toward(velocity.x, 0, SPEED)
 		velocity.z = move_toward(velocity.z, 0, SPEED)
-
+	
+	if Input.is_action_pressed("interact"):
+		$InteractionBox.show()
+	
+	if Input.is_action_just_released("interact"):
+		$InteractionBox.hide()
 	move_and_slide()

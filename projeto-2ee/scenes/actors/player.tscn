@@ -6,6 +6,13 @@
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_f6wxy"]
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_f6wxy"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ms4e4"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_f6wxy"]
+material = SubResource("StandardMaterial3D_ms4e4")
+
 [node name="Player" type="CharacterBody3D" unique_id=633876420]
 script = ExtResource("1_15tap")
 
@@ -14,3 +21,11 @@ shape = SubResource("CapsuleShape3D_f6wxy")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=521431605]
 mesh = SubResource("CapsuleMesh_f6wxy")
+
+[node name="InteractionBox" type="CollisionShape3D" parent="." unique_id=1784854964]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.0423322, 0, 0)
+visible = false
+shape = SubResource("BoxShape3D_f6wxy")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="InteractionBox" unique_id=186026870]
+mesh = SubResource("BoxMesh_f6wxy")
