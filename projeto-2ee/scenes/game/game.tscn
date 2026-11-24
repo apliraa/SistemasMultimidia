@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://p4n7pubarway"]
 
-[ext_resource type="PackedScene" uid="uid://bruavkc3bwx0a" path="res://scenes/player.tscn" id="1_uwrxv"]
+[ext_resource type="PackedScene" uid="uid://bruavkc3bwx0a" path="res://scenes/actors/player.tscn" id="1_sul5r"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_k41lo"]
 
@@ -16,5 +16,5 @@ physics_material_override = SubResource("PhysicsMaterial_k41lo")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.13311005, 0, -0.8755493)
 shape = SubResource("BoxShape3D_k41lo")
 
-[node name="player" parent="." unique_id=1188381419 instance=ExtResource("1_uwrxv")]
+[node name="player" parent="." unique_id=1188381419 instance=ExtResource("1_sul5r")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.72077286, 0.70636845, -0.285666)

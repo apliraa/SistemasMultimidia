@@ -1,0 +1,77 @@
+[gd_scene format=3 uid="uid://cg6jgxo4c0s1t"]
+
+[ext_resource type="Script" uid="uid://bknh164bkerau" path="res://scripts/menus/main_menu.gd" id="1_wlpbi"]
+[ext_resource type="PackedScene" uid="uid://q5ndvtstckl6" path="res://scenes/menus/Credits.tscn" id="2_bqojv"]
+[ext_resource type="PackedScene" uid="uid://psmci8spnksy" path="res://scenes/menus/Opcoes.tscn" id="3_tyyoy"]
+[ext_resource type="PackedScene" uid="uid://cprdedjua4do2" path="res://scenes/menus/Recordes.tscn" id="4_p0il0"]
+
+[node name="MainMenu" type="Control" unique_id=1308998345]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_wlpbi")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=619772745]
+layout_mode = 0
+offset_right = 1298.0
+offset_bottom = 713.0
+color = Color(0.76862746, 0.8509804, 1, 1)
+
+[node name="HBoxContainer" type="VBoxContainer" parent="." unique_id=859829626]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -91.0
+offset_top = -60.5
+offset_right = 91.0
+offset_bottom = 60.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Iniciar" type="Button" parent="HBoxContainer" unique_id=1358936829]
+layout_mode = 2
+text = "Start"
+
+[node name="Opções" type="Button" parent="HBoxContainer" unique_id=1455392161]
+layout_mode = 2
+text = "Opções"
+
+[node name="Recordes" type="Button" parent="HBoxContainer" unique_id=1440048700]
+layout_mode = 2
+text = "Recordes"
+
+[node name="Créditos" type="Button" parent="HBoxContainer" unique_id=1886933787]
+layout_mode = 2
+text = "Créditos"
+
+[node name="Sair" type="Button" parent="HBoxContainer" unique_id=1800797716]
+layout_mode = 2
+text = "Sair"
+
+[node name="Credits" parent="." unique_id=1864077177 instance=ExtResource("2_bqojv")]
+layout_mode = 1
+
+[node name="Opcoes" parent="." unique_id=1886759945 instance=ExtResource("3_tyyoy")]
+layout_mode = 1
+
+[node name="Recordes" parent="." unique_id=988872835 instance=ExtResource("4_p0il0")]
+layout_mode = 1
+
+[connection signal="pressed" from="HBoxContainer/Iniciar" to="." method="_on_iniciar_pressed"]
+[connection signal="pressed" from="HBoxContainer/Opções" to="." method="_on_opções_pressed"]
+[connection signal="pressed" from="HBoxContainer/Recordes" to="." method="_on_recordes_pressed"]
+[connection signal="pressed" from="HBoxContainer/Créditos" to="." method="_on_créditos_pressed"]
+[connection signal="pressed" from="HBoxContainer/Sair" to="." method="_on_sair_pressed"]
+[connection signal="pressed" from="Credits/VBoxContainer/Voltar" to="." method="_on_voltar_pressed"]
+[connection signal="pressed" from="Opcoes/VBoxContainer/Voltar" to="." method="_on_voltar_pressed"]
+[connection signal="pressed" from="Recordes/VBoxContainer/Voltar" to="." method="_on_voltar_pressed"]
+
+[editable path="Credits"]
+[editable path="Opcoes"]
+[editable path="Recordes"]
