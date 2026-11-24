@@ -1,0 +1,53 @@
+[gd_scene format=3 uid="uid://q5ndvtstckl6"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_f6wxy"]
+line_spacing = 5.0
+font_color = Color(0, 0, 0, 1)
+stacked_outline_count = 1
+stacked_outline_0/size = 1
+
+[node name="Credits" type="Control" unique_id=1864077177]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1021518718]
+layout_mode = 0
+offset_right = 1298.0
+offset_bottom = 713.0
+color = Color(0.76862746, 0.8509804, 1, 1)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1052255855]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Voltar" type="Button" parent="VBoxContainer" unique_id=1177081344]
+layout_mode = 2
+text = "Voltar"
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="." unique_id=1496119347]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Créditos" type="Label" parent="VBoxContainer2" unique_id=658703254]
+layout_mode = 2
+text = "Artur 
+Eryck Emmanuel
+Arllan Miguel 
+Gabriel "
+label_settings = SubResource("LabelSettings_f6wxy")
+horizontal_alignment = 1
