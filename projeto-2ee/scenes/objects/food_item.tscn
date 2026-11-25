@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://cxitemfood001"]
+
+[ext_resource type="Script" path="res://scripts/objects/food_item.gd" id="1_item"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_item"]
+albedo_color = Color(0.92, 0.18, 0.18, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_item"]
+material = SubResource("StandardMaterial3D_item")
+size = Vector3(0.4, 0.4, 0.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_item"]
+size = Vector3(0.4, 0.4, 0.4)
+
+[node name="FoodItem" type="StaticBody3D"]
+script = ExtResource("1_item")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+material_override = SubResource("StandardMaterial3D_item")
+mesh = SubResource("BoxMesh_item")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("BoxShape3D_item")

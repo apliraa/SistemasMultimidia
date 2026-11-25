@@ -1,6 +1,10 @@
 [gd_scene format=3 uid="uid://p4n7pubarway"]
 
 [ext_resource type="PackedScene" uid="uid://bruavkc3bwx0a" path="res://scenes/actors/player.tscn" id="1_sul5r"]
+[ext_resource type="PackedScene" uid="uid://cxcrate001" path="res://scenes/objects/crate.tscn" id="2_crate"]
+[ext_resource type="PackedScene" uid="uid://cxcutting001" path="res://scenes/objects/cutting_counter.tscn" id="3_cut"]
+[ext_resource type="PackedScene" uid="uid://cxpan001" path="res://scenes/objects/pan_counter.tscn" id="4_pan"]
+[ext_resource type="PackedScene" uid="uid://cxcounter001" path="res://scenes/objects/counter.tscn" id="5_counter"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_k41lo"]
 
@@ -24,10 +28,22 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.10565758, 0, -0.005034685)
 mesh = SubResource("BoxMesh_f6wxy")
 
 [node name="player" parent="." unique_id=1188381419 instance=ExtResource("1_sul5r")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.72077286, 1.6608536, -0.285666)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.66, 1)
+
+[node name="Crate" parent="." unique_id=1783665083 instance=ExtResource("2_crate")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 1, -2)
+
+[node name="CuttingCounter" parent="." unique_id=1706223515 instance=ExtResource("3_cut")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, 1, -2)
+
+[node name="PanCounter" parent="." unique_id=643257758 instance=ExtResource("4_pan")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, -2)
+
+[node name="Counter" parent="." unique_id=939482968 instance=ExtResource("5_counter")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 1, -2)
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=1633091515]
-transform = Transform3D(1, 0, 0, 0, 0.35928565, 0.9332277, 0, -0.9332277, 0.35928565, -0.04880202, 9.825609, 5.540533)
+transform = Transform3D(1, 0, 0, 0, 0.35928565, 0.9332277, 0, -0.9332277, 0.35928565, 0, 9.825609, 5.540533)
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=320856450]
 transform = Transform3D(1, 0, 0, 0, -0.6527805, 0.75754714, 0, -0.75754714, -0.6527805, 0, 14.975109, -12.364706)
