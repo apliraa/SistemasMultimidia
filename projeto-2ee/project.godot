@@ -24,6 +24,10 @@ window/stretch/aspect="expand"
 
 project/assembly_name="Projeto2EE"
 
+[filesystem]
+
+import/blender/enabled=false
+
 [input]
 
 left={
