@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://yl0qvh4ey61o"
-path="res://.godot/imported/cupcake.fbx-1fbaa8796a4fef1f18262d58b7e2e2f0.scn"
+path="res://.godot/imported/cupcake.fbx-729e4c2eba47ad9f13159c1dbf7e580d.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cupcake.fbx"
-dest_files=["res://.godot/imported/cupcake.fbx-1fbaa8796a4fef1f18262d58b7e2e2f0.scn"]
+source_file="res://assets-cenário/Models/FBX format/cupcake.fbx"
+dest_files=["res://.godot/imported/cupcake.fbx-729e4c2eba47ad9f13159c1dbf7e580d.scn"]
 
 [params]
 

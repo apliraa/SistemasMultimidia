@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b7rmvbgyhlgb4"
-path="res://.godot/imported/tajine.fbx-300be79c0ac2f23fff80441bfdd119d2.scn"
+path="res://.godot/imported/tajine.fbx-cd5ab5ddda2d68a5c01424da65df2be1.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/tajine.fbx"
-dest_files=["res://.godot/imported/tajine.fbx-300be79c0ac2f23fff80441bfdd119d2.scn"]
+source_file="res://assets-cenário/Models/FBX format/tajine.fbx"
+dest_files=["res://.godot/imported/tajine.fbx-cd5ab5ddda2d68a5c01424da65df2be1.scn"]
 
 [params]
 

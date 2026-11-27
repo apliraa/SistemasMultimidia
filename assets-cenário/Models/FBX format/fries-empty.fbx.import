@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqu4vuuvd7r6f"
-path="res://.godot/imported/fries-empty.fbx-df67c57d09166fe0fe40f232ec2b9232.scn"
+path="res://.godot/imported/fries-empty.fbx-86595e2ee15338cbaec1984120672a32.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/fries-empty.fbx"
-dest_files=["res://.godot/imported/fries-empty.fbx-df67c57d09166fe0fe40f232ec2b9232.scn"]
+source_file="res://assets-cenário/Models/FBX format/fries-empty.fbx"
+dest_files=["res://.godot/imported/fries-empty.fbx-86595e2ee15338cbaec1984120672a32.scn"]
 
 [params]
 

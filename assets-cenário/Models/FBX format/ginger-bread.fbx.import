@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://3xdnjwpg3y1w"
-path="res://.godot/imported/ginger-bread.fbx-1d7fb6f1dc94bab709ed64ee503fa780.scn"
+path="res://.godot/imported/ginger-bread.fbx-dc40a99c6bd61457100ef57ff7207551.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/ginger-bread.fbx"
-dest_files=["res://.godot/imported/ginger-bread.fbx-1d7fb6f1dc94bab709ed64ee503fa780.scn"]
+source_file="res://assets-cenário/Models/FBX format/ginger-bread.fbx"
+dest_files=["res://.godot/imported/ginger-bread.fbx-dc40a99c6bd61457100ef57ff7207551.scn"]
 
 [params]
 

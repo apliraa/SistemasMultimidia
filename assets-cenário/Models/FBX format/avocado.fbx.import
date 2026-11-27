@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgg0wacr0qnm7"
-path="res://.godot/imported/avocado.fbx-daf360afa98b16f42382364d0318c259.scn"
+path="res://.godot/imported/avocado.fbx-a6123fde0b62d42b9b3e9680ba73c1f5.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/avocado.fbx"
-dest_files=["res://.godot/imported/avocado.fbx-daf360afa98b16f42382364d0318c259.scn"]
+source_file="res://assets-cenário/Models/FBX format/avocado.fbx"
+dest_files=["res://.godot/imported/avocado.fbx-a6123fde0b62d42b9b3e9680ba73c1f5.scn"]
 
 [params]
 

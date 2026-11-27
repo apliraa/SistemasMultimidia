@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b31ibkmdjo1ri"
-path="res://.godot/imported/banana.png-8940e6439678c1442577ecbc079b3e48.ctex"
+path="res://.godot/imported/banana.png-3915ce08f3061b03ddd8a6906716dfc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/banana.png"
-dest_files=["res://.godot/imported/banana.png-8940e6439678c1442577ecbc079b3e48.ctex"]
+source_file="res://assets-cenário/Previews/banana.png"
+dest_files=["res://.godot/imported/banana.png-3915ce08f3061b03ddd8a6906716dfc2.ctex"]
 
 [params]
 

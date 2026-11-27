@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dss40eueg8wsw"
-path="res://.godot/imported/pot-lid.fbx-ecd78e597800a47cda0b198a823cbfd3.scn"
+path="res://.godot/imported/pot-lid.fbx-1ad15f22db90a7c3c69a6cef0b563133.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/pot-lid.fbx"
-dest_files=["res://.godot/imported/pot-lid.fbx-ecd78e597800a47cda0b198a823cbfd3.scn"]
+source_file="res://assets-cenário/Models/FBX format/pot-lid.fbx"
+dest_files=["res://.godot/imported/pot-lid.fbx-1ad15f22db90a7c3c69a6cef0b563133.scn"]
 
 [params]
 

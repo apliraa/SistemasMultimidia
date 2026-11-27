@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dbx00o51qflx0"
-path="res://.godot/imported/rollingPin.fbx-496ae7aa5707677a0c062430bac3ca3f.scn"
+path="res://.godot/imported/rollingPin.fbx-7ba60685d60e26263cee066cbfb090b8.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/rollingPin.fbx"
-dest_files=["res://.godot/imported/rollingPin.fbx-496ae7aa5707677a0c062430bac3ca3f.scn"]
+source_file="res://assets-cenário/Models/FBX format/rollingPin.fbx"
+dest_files=["res://.godot/imported/rollingPin.fbx-7ba60685d60e26263cee066cbfb090b8.scn"]
 
 [params]
 

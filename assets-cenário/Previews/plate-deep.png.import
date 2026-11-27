@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq8kpsokdeb6m"
-path="res://.godot/imported/plate-deep.png-ef1443a58ee50e8a8223c348b1789228.ctex"
+path="res://.godot/imported/plate-deep.png-5efe78fbd8057cde8a05f5d271ac761a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/plate-deep.png"
-dest_files=["res://.godot/imported/plate-deep.png-ef1443a58ee50e8a8223c348b1789228.ctex"]
+source_file="res://assets-cenário/Previews/plate-deep.png"
+dest_files=["res://.godot/imported/plate-deep.png-5efe78fbd8057cde8a05f5d271ac761a.ctex"]
 
 [params]
 

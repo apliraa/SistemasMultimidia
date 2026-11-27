@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://df3lslyd76sin"
-path="res://.godot/imported/paprika.fbx-16258e0adb46d898a7b3ccd9f2bf36d1.scn"
+path="res://.godot/imported/paprika.fbx-7d7cfa076aeec722800f49ed1cc53087.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/paprika.fbx"
-dest_files=["res://.godot/imported/paprika.fbx-16258e0adb46d898a7b3ccd9f2bf36d1.scn"]
+source_file="res://assets-cenário/Models/FBX format/paprika.fbx"
+dest_files=["res://.godot/imported/paprika.fbx-7d7cfa076aeec722800f49ed1cc53087.scn"]
 
 [params]
 

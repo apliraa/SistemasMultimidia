@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgnh5aga1cgre"
-path="res://.godot/imported/mussel-open.png-c7bad0b6de4cfb5ab3ac81d2cf67806c.ctex"
+path="res://.godot/imported/mussel-open.png-3a9c75ca2c99b8b074339e580c7d0763.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/mussel-open.png"
-dest_files=["res://.godot/imported/mussel-open.png-c7bad0b6de4cfb5ab3ac81d2cf67806c.ctex"]
+source_file="res://assets-cenário/Previews/mussel-open.png"
+dest_files=["res://.godot/imported/mussel-open.png-3a9c75ca2c99b8b074339e580c7d0763.ctex"]
 
 [params]
 

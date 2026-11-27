@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmpf5vjnigdpt"
-path="res://.godot/imported/mushroom.png-7ae2749aaa84c5fab911943d2e1c27c3.ctex"
+path="res://.godot/imported/mushroom.png-a618bdb7d79260a45aab7692396d1950.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/mushroom.png"
-dest_files=["res://.godot/imported/mushroom.png-7ae2749aaa84c5fab911943d2e1c27c3.ctex"]
+source_file="res://assets-cenário/Previews/mushroom.png"
+dest_files=["res://.godot/imported/mushroom.png-a618bdb7d79260a45aab7692396d1950.ctex"]
 
 [params]
 

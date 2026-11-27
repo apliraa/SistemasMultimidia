@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://qgw7o1pr5sw1"
-path="res://.godot/imported/soda-glass.fbx-dd43ce0fc3ddcdf1497cd7de345a9f3f.scn"
+path="res://.godot/imported/soda-glass.fbx-b3a61b46ef3d1dc501b521ef6dafb03a.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/soda-glass.fbx"
-dest_files=["res://.godot/imported/soda-glass.fbx-dd43ce0fc3ddcdf1497cd7de345a9f3f.scn"]
+source_file="res://assets-cenário/Models/FBX format/soda-glass.fbx"
+dest_files=["res://.godot/imported/soda-glass.fbx-b3a61b46ef3d1dc501b521ef6dafb03a.scn"]
 
 [params]
 

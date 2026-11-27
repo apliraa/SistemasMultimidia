@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bioaplm8c7u4x"
-path="res://.godot/imported/meat-tenderizer.png-df6d83f495c5203fdab0fa769b8557b8.ctex"
+path="res://.godot/imported/meat-tenderizer.png-e6407bdeb731e795d42caca8723f91a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/meat-tenderizer.png"
-dest_files=["res://.godot/imported/meat-tenderizer.png-df6d83f495c5203fdab0fa769b8557b8.ctex"]
+source_file="res://assets-cenário/Previews/meat-tenderizer.png"
+dest_files=["res://.godot/imported/meat-tenderizer.png-e6407bdeb731e795d42caca8723f91a2.ctex"]
 
 [params]
 

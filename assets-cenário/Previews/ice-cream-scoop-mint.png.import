@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg4l2c4hnwx0m"
-path="res://.godot/imported/ice-cream-scoop-mint.png-3079001d8800b1dee3960f87db5cafc0.ctex"
+path="res://.godot/imported/ice-cream-scoop-mint.png-7923f34acb57ceb110775293c23f0e79.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/ice-cream-scoop-mint.png"
-dest_files=["res://.godot/imported/ice-cream-scoop-mint.png-3079001d8800b1dee3960f87db5cafc0.ctex"]
+source_file="res://assets-cenário/Previews/ice-cream-scoop-mint.png"
+dest_files=["res://.godot/imported/ice-cream-scoop-mint.png-7923f34acb57ceb110775293c23f0e79.ctex"]
 
 [params]
 

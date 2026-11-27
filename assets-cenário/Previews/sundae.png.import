@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl7rdlevgjl8v"
-path="res://.godot/imported/sundae.png-8be86cdbc5adda61c4dedbc299910f9f.ctex"
+path="res://.godot/imported/sundae.png-c3ee71355087484b63f7a32d974c022e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/sundae.png"
-dest_files=["res://.godot/imported/sundae.png-8be86cdbc5adda61c4dedbc299910f9f.ctex"]
+source_file="res://assets-cenário/Previews/sundae.png"
+dest_files=["res://.godot/imported/sundae.png-c3ee71355087484b63f7a32d974c022e.ctex"]
 
 [params]
 

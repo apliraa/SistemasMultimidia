@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gdkdp3v431lv"
-path="res://.godot/imported/loaf-baguette.png-dfc423d53401b3e5d84efbf9b525e593.ctex"
+path="res://.godot/imported/loaf-baguette.png-29fc2dcc2e65fe265433dfc8c02be041.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/loaf-baguette.png"
-dest_files=["res://.godot/imported/loaf-baguette.png-dfc423d53401b3e5d84efbf9b525e593.ctex"]
+source_file="res://assets-cenário/Previews/loaf-baguette.png"
+dest_files=["res://.godot/imported/loaf-baguette.png-29fc2dcc2e65fe265433dfc8c02be041.ctex"]
 
 [params]
 

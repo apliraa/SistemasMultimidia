@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bibpugb77s4nd"
-path="res://.godot/imported/sausage-half.png-4cdadf3228390fa1c36f9de206bac49e.ctex"
+path="res://.godot/imported/sausage-half.png-f8e36800f3e36e911b14e80f3ae0d963.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/sausage-half.png"
-dest_files=["res://.godot/imported/sausage-half.png-4cdadf3228390fa1c36f9de206bac49e.ctex"]
+source_file="res://assets-cenário/Previews/sausage-half.png"
+dest_files=["res://.godot/imported/sausage-half.png-f8e36800f3e36e911b14e80f3ae0d963.ctex"]
 
 [params]
 

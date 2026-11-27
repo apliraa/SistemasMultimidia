@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cduhpf6ciwdii"
-path="res://.godot/imported/sushi-egg.png-238f07f323d02dda4a0d81a0c359d2dd.ctex"
+path="res://.godot/imported/sushi-egg.png-768e37f3877cb0e47159e891c90bcdb4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/sushi-egg.png"
-dest_files=["res://.godot/imported/sushi-egg.png-238f07f323d02dda4a0d81a0c359d2dd.ctex"]
+source_file="res://assets-cenário/Previews/sushi-egg.png"
+dest_files=["res://.godot/imported/sushi-egg.png-768e37f3877cb0e47159e891c90bcdb4.ctex"]
 
 [params]
 

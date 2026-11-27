@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cjhrd2h3ljin2"
-path="res://.godot/imported/mushroom.fbx-f70d8f8e5244d23088902f5b3d58c603.scn"
+path="res://.godot/imported/mushroom.fbx-f181df1a26f91b00a22910d8276f2aaa.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/mushroom.fbx"
-dest_files=["res://.godot/imported/mushroom.fbx-f70d8f8e5244d23088902f5b3d58c603.scn"]
+source_file="res://assets-cenário/Models/FBX format/mushroom.fbx"
+dest_files=["res://.godot/imported/mushroom.fbx-f181df1a26f91b00a22910d8276f2aaa.scn"]
 
 [params]
 

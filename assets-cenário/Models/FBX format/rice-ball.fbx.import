@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://0a31neex40uy"
-path="res://.godot/imported/rice-ball.fbx-ab441d8d9553fbc0c88d9536e4b701ae.scn"
+path="res://.godot/imported/rice-ball.fbx-d5a3d3cbb73fcbdd5aeed92c27c25a78.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/rice-ball.fbx"
-dest_files=["res://.godot/imported/rice-ball.fbx-ab441d8d9553fbc0c88d9536e4b701ae.scn"]
+source_file="res://assets-cenário/Models/FBX format/rice-ball.fbx"
+dest_files=["res://.godot/imported/rice-ball.fbx-d5a3d3cbb73fcbdd5aeed92c27c25a78.scn"]
 
 [params]
 

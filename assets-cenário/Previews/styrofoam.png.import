@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2vj5o50fbqxt"
-path="res://.godot/imported/styrofoam.png-1a26192e51718b377176e93b40fa3e64.ctex"
+path="res://.godot/imported/styrofoam.png-cfe3ba09409fde6df8d425f1ea0656e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/styrofoam.png"
-dest_files=["res://.godot/imported/styrofoam.png-1a26192e51718b377176e93b40fa3e64.ctex"]
+source_file="res://assets-cenário/Previews/styrofoam.png"
+dest_files=["res://.godot/imported/styrofoam.png-cfe3ba09409fde6df8d425f1ea0656e4.ctex"]
 
 [params]
 

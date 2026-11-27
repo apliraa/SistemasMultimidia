@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2pehr83obsmk"
-path="res://.godot/imported/dim-sum.png-9cd8ff66b8f1a16d33063eeff042b73e.ctex"
+path="res://.godot/imported/dim-sum.png-1b855bbbe4a460002a92d5473f316429.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/dim-sum.png"
-dest_files=["res://.godot/imported/dim-sum.png-9cd8ff66b8f1a16d33063eeff042b73e.ctex"]
+source_file="res://assets-cenário/Previews/dim-sum.png"
+dest_files=["res://.godot/imported/dim-sum.png-1b855bbbe4a460002a92d5473f316429.ctex"]
 
 [params]
 

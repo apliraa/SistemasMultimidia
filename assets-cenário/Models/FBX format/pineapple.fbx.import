@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://1pcc0npj7qn7"
-path="res://.godot/imported/pineapple.fbx-839b13ac07576b88636b5e0d5e5a9ddd.scn"
+path="res://.godot/imported/pineapple.fbx-4a83419426b3316bac4500a657835bde.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/pineapple.fbx"
-dest_files=["res://.godot/imported/pineapple.fbx-839b13ac07576b88636b5e0d5e5a9ddd.scn"]
+source_file="res://assets-cenário/Models/FBX format/pineapple.fbx"
+dest_files=["res://.godot/imported/pineapple.fbx-4a83419426b3316bac4500a657835bde.scn"]
 
 [params]
 

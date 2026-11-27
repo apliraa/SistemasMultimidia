@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ctt7xpi64j77w"
-path="res://.godot/imported/pepper-mill.fbx-6f2ac657acc06e41d6a8dae33341e024.scn"
+path="res://.godot/imported/pepper-mill.fbx-d9a6a4d9a4a8f06cfa0ea606ff81b78a.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/pepper-mill.fbx"
-dest_files=["res://.godot/imported/pepper-mill.fbx-6f2ac657acc06e41d6a8dae33341e024.scn"]
+source_file="res://assets-cenário/Models/FBX format/pepper-mill.fbx"
+dest_files=["res://.godot/imported/pepper-mill.fbx-d9a6a4d9a4a8f06cfa0ea606ff81b78a.scn"]
 
 [params]
 

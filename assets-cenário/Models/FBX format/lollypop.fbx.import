@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://umtpkfy2nr2"
-path="res://.godot/imported/lollypop.fbx-81ed64558cb34bec7ac4f04ab56fadd1.scn"
+path="res://.godot/imported/lollypop.fbx-ceec27bce5ec7934065a5965a3534721.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/lollypop.fbx"
-dest_files=["res://.godot/imported/lollypop.fbx-81ed64558cb34bec7ac4f04ab56fadd1.scn"]
+source_file="res://assets-cenário/Models/FBX format/lollypop.fbx"
+dest_files=["res://.godot/imported/lollypop.fbx-ceec27bce5ec7934065a5965a3534721.scn"]
 
 [params]
 

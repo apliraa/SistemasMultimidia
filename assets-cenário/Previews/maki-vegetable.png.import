@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uht1scl3cbb1"
-path="res://.godot/imported/maki-vegetable.png-19a1c7752359045d12c37477d83b38b9.ctex"
+path="res://.godot/imported/maki-vegetable.png-567e64593b15d314cf02233db6edd74e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/maki-vegetable.png"
-dest_files=["res://.godot/imported/maki-vegetable.png-19a1c7752359045d12c37477d83b38b9.ctex"]
+source_file="res://assets-cenário/Previews/maki-vegetable.png"
+dest_files=["res://.godot/imported/maki-vegetable.png-567e64593b15d314cf02233db6edd74e.ctex"]
 
 [params]
 

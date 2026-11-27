@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dnyeiehpbsapq"
-path="res://.godot/imported/dim-sum.fbx-32bd338cb594e5375d4152a70bba77dd.scn"
+path="res://.godot/imported/dim-sum.fbx-d053cf26e5fa490ef363b3eb8c6f554d.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/dim-sum.fbx"
-dest_files=["res://.godot/imported/dim-sum.fbx-32bd338cb594e5375d4152a70bba77dd.scn"]
+source_file="res://assets-cenário/Models/FBX format/dim-sum.fbx"
+dest_files=["res://.godot/imported/dim-sum.fbx-d053cf26e5fa490ef363b3eb8c6f554d.scn"]
 
 [params]
 

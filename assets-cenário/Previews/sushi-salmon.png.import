@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbo4bvg2anvvg"
-path="res://.godot/imported/sushi-salmon.png-031b2f99cd90a56cff02959206de9549.ctex"
+path="res://.godot/imported/sushi-salmon.png-c40c6fce8fecd2060c5a8992ef299623.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/sushi-salmon.png"
-dest_files=["res://.godot/imported/sushi-salmon.png-031b2f99cd90a56cff02959206de9549.ctex"]
+source_file="res://assets-cenário/Previews/sushi-salmon.png"
+dest_files=["res://.godot/imported/sushi-salmon.png-c40c6fce8fecd2060c5a8992ef299623.ctex"]
 
 [params]
 

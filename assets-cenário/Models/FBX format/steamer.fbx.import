@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b5srhygkbaypj"
-path="res://.godot/imported/steamer.fbx-32bf21fc25bc76ce3b6b79a085fa60cf.scn"
+path="res://.godot/imported/steamer.fbx-536a83491c97979ee44c2dad2fb42fe6.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/steamer.fbx"
-dest_files=["res://.godot/imported/steamer.fbx-32bf21fc25bc76ce3b6b79a085fa60cf.scn"]
+source_file="res://assets-cenário/Models/FBX format/steamer.fbx"
+dest_files=["res://.godot/imported/steamer.fbx-536a83491c97979ee44c2dad2fb42fe6.scn"]
 
 [params]
 

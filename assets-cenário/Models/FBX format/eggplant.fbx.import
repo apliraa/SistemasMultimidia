@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cd7y53fwvf1hu"
-path="res://.godot/imported/eggplant.fbx-67edc1fae31f4207d29a4b481a24490a.scn"
+path="res://.godot/imported/eggplant.fbx-ad59e6170ede60bd20480f3c3660d64a.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/eggplant.fbx"
-dest_files=["res://.godot/imported/eggplant.fbx-67edc1fae31f4207d29a4b481a24490a.scn"]
+source_file="res://assets-cenário/Models/FBX format/eggplant.fbx"
+dest_files=["res://.godot/imported/eggplant.fbx-ad59e6170ede60bd20480f3c3660d64a.scn"]
 
 [params]
 

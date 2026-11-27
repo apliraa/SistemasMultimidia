@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmrn5lw46iy8k"
-path="res://.godot/imported/mortar-pestle.fbx-8450d80aba1fd958f23b116b6d2566e9.scn"
+path="res://.godot/imported/mortar-pestle.fbx-ba576c73547553f30d87b697a6966c2a.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/mortar-pestle.fbx"
-dest_files=["res://.godot/imported/mortar-pestle.fbx-8450d80aba1fd958f23b116b6d2566e9.scn"]
+source_file="res://assets-cenário/Models/FBX format/mortar-pestle.fbx"
+dest_files=["res://.godot/imported/mortar-pestle.fbx-ba576c73547553f30d87b697a6966c2a.scn"]
 
 [params]
 

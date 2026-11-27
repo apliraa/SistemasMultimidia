@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds6nnq4421epb"
-path="res://.godot/imported/mincemeat-pie.png-f80cc67ca07998cd95847fb03706d427.ctex"
+path="res://.godot/imported/mincemeat-pie.png-eaf234fd952a2a28eb0d53cd6189c811.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/mincemeat-pie.png"
-dest_files=["res://.godot/imported/mincemeat-pie.png-f80cc67ca07998cd95847fb03706d427.ctex"]
+source_file="res://assets-cenário/Previews/mincemeat-pie.png"
+dest_files=["res://.godot/imported/mincemeat-pie.png-eaf234fd952a2a28eb0d53cd6189c811.ctex"]
 
 [params]
 

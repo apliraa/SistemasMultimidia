@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqe66jvwqydjl"
-path="res://.godot/imported/cabbage.fbx-52e4220d6b4cb79325b59bb824242613.scn"
+path="res://.godot/imported/cabbage.fbx-b8a6bb650805915cef084fb78d9428bd.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cabbage.fbx"
-dest_files=["res://.godot/imported/cabbage.fbx-52e4220d6b4cb79325b59bb824242613.scn"]
+source_file="res://assets-cenário/Models/FBX format/cabbage.fbx"
+dest_files=["res://.godot/imported/cabbage.fbx-b8a6bb650805915cef084fb78d9428bd.scn"]
 
 [params]
 

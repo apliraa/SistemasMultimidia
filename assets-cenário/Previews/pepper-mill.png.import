@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://belbcbom3805b"
-path="res://.godot/imported/pepper-mill.png-2c0a61562859bc90b18976c3fffc65c7.ctex"
+path="res://.godot/imported/pepper-mill.png-c579bc71857a43d74b8019ed6644611c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/pepper-mill.png"
-dest_files=["res://.godot/imported/pepper-mill.png-2c0a61562859bc90b18976c3fffc65c7.ctex"]
+source_file="res://assets-cenário/Previews/pepper-mill.png"
+dest_files=["res://.godot/imported/pepper-mill.png-c579bc71857a43d74b8019ed6644611c.ctex"]
 
 [params]
 

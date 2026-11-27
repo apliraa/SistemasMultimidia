@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bhfxjnd8fd00m"
-path="res://.godot/imported/plate-sauerkraut.fbx-a41772b369c46c5dab540ffc6b83b625.scn"
+path="res://.godot/imported/plate-sauerkraut.fbx-bcc95df0f5b2ee54050ab6655ad887a7.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/plate-sauerkraut.fbx"
-dest_files=["res://.godot/imported/plate-sauerkraut.fbx-a41772b369c46c5dab540ffc6b83b625.scn"]
+source_file="res://assets-cenário/Models/FBX format/plate-sauerkraut.fbx"
+dest_files=["res://.godot/imported/plate-sauerkraut.fbx-bcc95df0f5b2ee54050ab6655ad887a7.scn"]
 
 [params]
 

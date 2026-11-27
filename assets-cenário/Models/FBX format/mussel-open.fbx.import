@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b8rgif8pepv64"
-path="res://.godot/imported/mussel-open.fbx-32a8c1e8cae21efed6a7333491490275.scn"
+path="res://.godot/imported/mussel-open.fbx-53f15347107327e80e19365ed2bb5aaa.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/mussel-open.fbx"
-dest_files=["res://.godot/imported/mussel-open.fbx-32a8c1e8cae21efed6a7333491490275.scn"]
+source_file="res://assets-cenário/Models/FBX format/mussel-open.fbx"
+dest_files=["res://.godot/imported/mussel-open.fbx-53f15347107327e80e19365ed2bb5aaa.scn"]
 
 [params]
 

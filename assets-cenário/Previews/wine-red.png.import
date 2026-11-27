@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k6fbog4b3h0q"
-path="res://.godot/imported/wine-red.png-a7754cc97a282f1e16f14433c518c281.ctex"
+path="res://.godot/imported/wine-red.png-a708e35b0911d66a7e9e4129c5881677.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/wine-red.png"
-dest_files=["res://.godot/imported/wine-red.png-a7754cc97a282f1e16f14433c518c281.ctex"]
+source_file="res://assets-cenário/Previews/wine-red.png"
+dest_files=["res://.godot/imported/wine-red.png-a708e35b0911d66a7e9e4129c5881677.ctex"]
 
 [params]
 

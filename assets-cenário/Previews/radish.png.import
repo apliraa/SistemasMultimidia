@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfugrwsj4uri7"
-path="res://.godot/imported/radish.png-8ee7a8b72fd499b406dbd7e522e27dbb.ctex"
+path="res://.godot/imported/radish.png-92a466b7070bc34c5c361b6a9119d2b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/radish.png"
-dest_files=["res://.godot/imported/radish.png-8ee7a8b72fd499b406dbd7e522e27dbb.ctex"]
+source_file="res://assets-cenário/Previews/radish.png"
+dest_files=["res://.godot/imported/radish.png-92a466b7070bc34c5c361b6a9119d2b9.ctex"]
 
 [params]
 

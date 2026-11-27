@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://enw3knlsmqk4"
-path="res://.godot/imported/cherries.fbx-f86429e5ea2976952f0ca2d6f4b653e5.scn"
+path="res://.godot/imported/cherries.fbx-b58cf61f5ee4051f1c3e706cd530f576.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cherries.fbx"
-dest_files=["res://.godot/imported/cherries.fbx-f86429e5ea2976952f0ca2d6f4b653e5.scn"]
+source_file="res://assets-cenário/Models/FBX format/cherries.fbx"
+dest_files=["res://.godot/imported/cherries.fbx-b58cf61f5ee4051f1c3e706cd530f576.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cw4uvsbbqup2j"
-path="res://.godot/imported/shaker-salt.fbx-70b2a05b2c46f1ee29207bc53a1e3a8a.scn"
+path="res://.godot/imported/shaker-salt.fbx-f6d1c4f628fa0c74355ec7a00be0e16d.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/shaker-salt.fbx"
-dest_files=["res://.godot/imported/shaker-salt.fbx-70b2a05b2c46f1ee29207bc53a1e3a8a.scn"]
+source_file="res://assets-cenário/Models/FBX format/shaker-salt.fbx"
+dest_files=["res://.godot/imported/shaker-salt.fbx-f6d1c4f628fa0c74355ec7a00be0e16d.scn"]
 
 [params]
 

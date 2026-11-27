@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dj0f68vgg2ay7"
-path="res://.godot/imported/glass.fbx-a1de42111cf69992a84e6b058026ab38.scn"
+path="res://.godot/imported/glass.fbx-190eebe8bcd822360ba36916e49b4ec4.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/glass.fbx"
-dest_files=["res://.godot/imported/glass.fbx-a1de42111cf69992a84e6b058026ab38.scn"]
+source_file="res://assets-cenário/Models/FBX format/glass.fbx"
+dest_files=["res://.godot/imported/glass.fbx-190eebe8bcd822360ba36916e49b4ec4.scn"]
 
 [params]
 

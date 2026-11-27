@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6ib7yeri4210"
-path="res://.godot/imported/loaf-round.png-93561bd8a7c6ac7fb408af95ebfbcff5.ctex"
+path="res://.godot/imported/loaf-round.png-3c9a3da3f314b104a29e8a56d990801e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/loaf-round.png"
-dest_files=["res://.godot/imported/loaf-round.png-93561bd8a7c6ac7fb408af95ebfbcff5.ctex"]
+source_file="res://assets-cenário/Previews/loaf-round.png"
+dest_files=["res://.godot/imported/loaf-round.png-3c9a3da3f314b104a29e8a56d990801e.ctex"]
 
 [params]
 

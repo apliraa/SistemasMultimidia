@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl4oqn6v2x11w"
-path="res://.godot/imported/Tiles010_1K-JPG_NormalDX.jpg-7a01ca98a9f4c83565e2585ba3184a70.ctex"
+path="res://.godot/imported/Tiles010_1K-JPG_NormalDX.jpg-c0c13871094f77db1e6697d273a1d16b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Tiles010_1K-JPG/Tiles010_1K-JPG_NormalDX.jpg"
-dest_files=["res://.godot/imported/Tiles010_1K-JPG_NormalDX.jpg-7a01ca98a9f4c83565e2585ba3184a70.ctex"]
+source_file="res://assets-cenário/Tiles010_1K-JPG/Tiles010_1K-JPG_NormalDX.jpg"
+dest_files=["res://.godot/imported/Tiles010_1K-JPG_NormalDX.jpg-c0c13871094f77db1e6697d273a1d16b.ctex"]
 
 [params]
 

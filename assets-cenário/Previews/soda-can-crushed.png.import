@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://da6trwag1j4jr"
-path="res://.godot/imported/soda-can-crushed.png-7c4f29762338bf7cc4110f7c2288696d.ctex"
+path="res://.godot/imported/soda-can-crushed.png-a1fbb3b1ecd285250ac962cde646034a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/soda-can-crushed.png"
-dest_files=["res://.godot/imported/soda-can-crushed.png-7c4f29762338bf7cc4110f7c2288696d.ctex"]
+source_file="res://assets-cenário/Previews/soda-can-crushed.png"
+dest_files=["res://.godot/imported/soda-can-crushed.png-a1fbb3b1ecd285250ac962cde646034a.ctex"]
 
 [params]
 

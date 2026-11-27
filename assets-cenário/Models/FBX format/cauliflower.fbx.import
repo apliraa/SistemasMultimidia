@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bg7hqxbkhfys2"
-path="res://.godot/imported/cauliflower.fbx-c95e588b15f3210e9116f701905b1950.scn"
+path="res://.godot/imported/cauliflower.fbx-bb1f0c3c0913016183257fdfad9262c2.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cauliflower.fbx"
-dest_files=["res://.godot/imported/cauliflower.fbx-c95e588b15f3210e9116f701905b1950.scn"]
+source_file="res://assets-cenário/Models/FBX format/cauliflower.fbx"
+dest_files=["res://.godot/imported/cauliflower.fbx-bb1f0c3c0913016183257fdfad9262c2.scn"]
 
 [params]
 

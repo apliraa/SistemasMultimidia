@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://0vu04tngfuxh"
-path="res://.godot/imported/wooden chair by 浅井裕斗 - 4SSuGf1RWwY.glb-f0370c223a120f11799a2539f03f88e2.scn"
+path="res://.godot/imported/wooden chair by 浅井裕斗 - 4SSuGf1RWwY.glb-62818ef0117487521ed98684e818115a.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/GLB format/wooden chair by 浅井裕斗 - 4SSuGf1RWwY.glb"
-dest_files=["res://.godot/imported/wooden chair by 浅井裕斗 - 4SSuGf1RWwY.glb-f0370c223a120f11799a2539f03f88e2.scn"]
+source_file="res://assets-cenário/Models/GLB format/wooden chair by 浅井裕斗 - 4SSuGf1RWwY.glb"
+dest_files=["res://.godot/imported/wooden chair by 浅井裕斗 - 4SSuGf1RWwY.glb-62818ef0117487521ed98684e818115a.scn"]
 
 [params]
 

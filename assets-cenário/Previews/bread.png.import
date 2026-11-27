@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6knfj0xupfg5"
-path="res://.godot/imported/bread.png-14dcb9622937908a25fd636de2a41f6c.ctex"
+path="res://.godot/imported/bread.png-7c1320a2427379b9223c50afadf48ed4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/bread.png"
-dest_files=["res://.godot/imported/bread.png-14dcb9622937908a25fd636de2a41f6c.ctex"]
+source_file="res://assets-cenário/Previews/bread.png"
+dest_files=["res://.godot/imported/bread.png-7c1320a2427379b9223c50afadf48ed4.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bauwbr6j30vol"
-path="res://.godot/imported/pear.png-23c84cebd456b30c8c5d6f34a9f42da6.ctex"
+path="res://.godot/imported/pear.png-bf4880b1a090450323a1368b6abd05c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/pear.png"
-dest_files=["res://.godot/imported/pear.png-23c84cebd456b30c8c5d6f34a9f42da6.ctex"]
+source_file="res://assets-cenário/Previews/pear.png"
+dest_files=["res://.godot/imported/pear.png-bf4880b1a090450323a1368b6abd05c8.ctex"]
 
 [params]
 

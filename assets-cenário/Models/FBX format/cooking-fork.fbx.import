@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dq2sj5ssg3gex"
-path="res://.godot/imported/cooking-fork.fbx-677fe17342fd38d63e8587ab55a1c7bb.scn"
+path="res://.godot/imported/cooking-fork.fbx-9cf4b7d4b59f08d847a8a09357754a56.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cooking-fork.fbx"
-dest_files=["res://.godot/imported/cooking-fork.fbx-677fe17342fd38d63e8587ab55a1c7bb.scn"]
+source_file="res://assets-cenário/Models/FBX format/cooking-fork.fbx"
+dest_files=["res://.godot/imported/cooking-fork.fbx-9cf4b7d4b59f08d847a8a09357754a56.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds0dt8tfykwqu"
-path="res://.godot/imported/utensil-knife.png-b10e53a163f283bde0fc62eb0d30971c.ctex"
+path="res://.godot/imported/utensil-knife.png-7c56563a1b2bb7d6b006d72284c8a4a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/utensil-knife.png"
-dest_files=["res://.godot/imported/utensil-knife.png-b10e53a163f283bde0fc62eb0d30971c.ctex"]
+source_file="res://assets-cenário/Previews/utensil-knife.png"
+dest_files=["res://.godot/imported/utensil-knife.png-7c56563a1b2bb7d6b006d72284c8a4a2.ctex"]
 
 [params]
 

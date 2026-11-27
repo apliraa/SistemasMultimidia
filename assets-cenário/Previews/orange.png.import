@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kyr5bfrqdf41"
-path="res://.godot/imported/orange.png-84a911cf0397a5f5fe7eea9625c4f146.ctex"
+path="res://.godot/imported/orange.png-042154936671a273dc58e2a14dd6b166.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/orange.png"
-dest_files=["res://.godot/imported/orange.png-84a911cf0397a5f5fe7eea9625c4f146.ctex"]
+source_file="res://assets-cenário/Previews/orange.png"
+dest_files=["res://.godot/imported/orange.png-042154936671a273dc58e2a14dd6b166.ctex"]
 
 [params]
 

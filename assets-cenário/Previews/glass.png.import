@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmpmtxqx0ee5h"
-path="res://.godot/imported/glass.png-100a15e9d5873512db05f39624cec1e5.ctex"
+path="res://.godot/imported/glass.png-911589f4b3d74e5c903622cbf0fc6366.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/glass.png"
-dest_files=["res://.godot/imported/glass.png-100a15e9d5873512db05f39624cec1e5.ctex"]
+source_file="res://assets-cenário/Previews/glass.png"
+dest_files=["res://.godot/imported/glass.png-911589f4b3d74e5c903622cbf0fc6366.ctex"]
 
 [params]
 

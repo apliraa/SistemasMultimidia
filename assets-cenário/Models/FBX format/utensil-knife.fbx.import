@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0j4dsd2g2b8g"
-path="res://.godot/imported/utensil-knife.fbx-4a4ef0ed846bdd0730d453e890ba125a.scn"
+path="res://.godot/imported/utensil-knife.fbx-076101899a5f7b24673f3e1098aec262.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/utensil-knife.fbx"
-dest_files=["res://.godot/imported/utensil-knife.fbx-4a4ef0ed846bdd0730d453e890ba125a.scn"]
+source_file="res://assets-cenário/Models/FBX format/utensil-knife.fbx"
+dest_files=["res://.godot/imported/utensil-knife.fbx-076101899a5f7b24673f3e1098aec262.scn"]
 
 [params]
 

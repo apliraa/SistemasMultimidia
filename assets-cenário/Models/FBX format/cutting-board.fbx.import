@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b31selk6641rl"
-path="res://.godot/imported/cutting-board.fbx-d1743ed4377796a765366e1917484d34.scn"
+path="res://.godot/imported/cutting-board.fbx-300855e25cb02fdc0d6eff05a45fe7ac.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cutting-board.fbx"
-dest_files=["res://.godot/imported/cutting-board.fbx-d1743ed4377796a765366e1917484d34.scn"]
+source_file="res://assets-cenário/Models/FBX format/cutting-board.fbx"
+dest_files=["res://.godot/imported/cutting-board.fbx-300855e25cb02fdc0d6eff05a45fe7ac.scn"]
 
 [params]
 

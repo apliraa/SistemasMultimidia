@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bxs1qdc8ei0vh"
-path="res://.godot/imported/apple-half.fbx-1f96700d85414f23267d3017cb812a04.scn"
+path="res://.godot/imported/apple-half.fbx-c2ad5ef36a5715b2a72c472b00c8f5b3.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/apple-half.fbx"
-dest_files=["res://.godot/imported/apple-half.fbx-1f96700d85414f23267d3017cb812a04.scn"]
+source_file="res://assets-cenário/Models/FBX format/apple-half.fbx"
+dest_files=["res://.godot/imported/apple-half.fbx-c2ad5ef36a5715b2a72c472b00c8f5b3.scn"]
 
 [params]
 

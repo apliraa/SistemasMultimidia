@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdm3wdavoayn6"
-path.s3tc="res://.godot/imported/Tiles074_1K-JPG_Color.jpg-2c495a51aa7114640ba0d79e0dee8d31.s3tc.ctex"
+path.s3tc="res://.godot/imported/Tiles074_1K-JPG_Color.jpg-2803a52e4e0856b3c5d15b50adfb6e19.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://kenney_food-kit/Tiles074_1K-JPG/Tiles074_1K-JPG_Color.jpg"
-dest_files=["res://.godot/imported/Tiles074_1K-JPG_Color.jpg-2c495a51aa7114640ba0d79e0dee8d31.s3tc.ctex"]
+source_file="res://assets-cenário/Tiles074_1K-JPG/Tiles074_1K-JPG_Color.jpg"
+dest_files=["res://.godot/imported/Tiles074_1K-JPG_Color.jpg-2803a52e4e0856b3c5d15b50adfb6e19.s3tc.ctex"]
 
 [params]
 

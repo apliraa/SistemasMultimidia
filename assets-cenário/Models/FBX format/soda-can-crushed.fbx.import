@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://qjih0eboc4th"
-path="res://.godot/imported/soda-can-crushed.fbx-71ca10d524cc960c34284c5f35760207.scn"
+path="res://.godot/imported/soda-can-crushed.fbx-8b304fdf85e621dfde786c24e75bda89.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/soda-can-crushed.fbx"
-dest_files=["res://.godot/imported/soda-can-crushed.fbx-71ca10d524cc960c34284c5f35760207.scn"]
+source_file="res://assets-cenário/Models/FBX format/soda-can-crushed.fbx"
+dest_files=["res://.godot/imported/soda-can-crushed.fbx-8b304fdf85e621dfde786c24e75bda89.scn"]
 
 [params]
 

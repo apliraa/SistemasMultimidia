@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://kewvl7vb02xi"
-path="res://.godot/imported/chopstic-decorative.fbx-0cf38b3e48ccb4622c8ef018d72fc148.scn"
+path="res://.godot/imported/chopstic-decorative.fbx-05ea7b44e88f5ccbad3e581423d819f0.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/chopstic-decorative.fbx"
-dest_files=["res://.godot/imported/chopstic-decorative.fbx-0cf38b3e48ccb4622c8ef018d72fc148.scn"]
+source_file="res://assets-cenário/Models/FBX format/chopstic-decorative.fbx"
+dest_files=["res://.godot/imported/chopstic-decorative.fbx-05ea7b44e88f5ccbad3e581423d819f0.scn"]
 
 [params]
 

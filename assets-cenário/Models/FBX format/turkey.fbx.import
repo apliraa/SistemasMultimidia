@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://brcc630h1p2le"
-path="res://.godot/imported/turkey.fbx-3a17e95a19c5e271eb23dfcc2c13023b.scn"
+path="res://.godot/imported/turkey.fbx-57354ba8fbf985b0cecc70fdf81d1418.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/turkey.fbx"
-dest_files=["res://.godot/imported/turkey.fbx-3a17e95a19c5e271eb23dfcc2c13023b.scn"]
+source_file="res://assets-cenário/Models/FBX format/turkey.fbx"
+dest_files=["res://.godot/imported/turkey.fbx-57354ba8fbf985b0cecc70fdf81d1418.scn"]
 
 [params]
 

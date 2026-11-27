@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2c2pfoln6lpw"
-path="res://.godot/imported/cutting-board.png-ee6faba5810e641ab50cf1b46f2ffeee.ctex"
+path="res://.godot/imported/cutting-board.png-acbaf22cdbddddf12fc385660d0d5305.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/cutting-board.png"
-dest_files=["res://.godot/imported/cutting-board.png-ee6faba5810e641ab50cf1b46f2ffeee.ctex"]
+source_file="res://assets-cenário/Previews/cutting-board.png"
+dest_files=["res://.godot/imported/cutting-board.png-acbaf22cdbddddf12fc385660d0d5305.ctex"]
 
 [params]
 

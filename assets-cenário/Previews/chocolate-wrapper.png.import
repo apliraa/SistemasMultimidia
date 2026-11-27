@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp78he64pm6g3"
-path="res://.godot/imported/chocolate-wrapper.png-7a7290e1334e8f5a51ade1b081f8e4e4.ctex"
+path="res://.godot/imported/chocolate-wrapper.png-d7c28025d222e026f1d01f20353a1ba7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/chocolate-wrapper.png"
-dest_files=["res://.godot/imported/chocolate-wrapper.png-7a7290e1334e8f5a51ade1b081f8e4e4.ctex"]
+source_file="res://assets-cenário/Previews/chocolate-wrapper.png"
+dest_files=["res://.godot/imported/chocolate-wrapper.png-d7c28025d222e026f1d01f20353a1ba7.ctex"]
 
 [params]
 

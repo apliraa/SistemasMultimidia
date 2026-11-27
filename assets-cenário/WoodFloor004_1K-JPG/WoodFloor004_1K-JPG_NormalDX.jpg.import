@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4yj6v1nsgtc0"
-path="res://.godot/imported/WoodFloor004_1K-JPG_NormalDX.jpg-e5c471b9d62e3a0b4be436070a8a9f0a.ctex"
+path="res://.godot/imported/WoodFloor004_1K-JPG_NormalDX.jpg-9f6ced5fdd05595d9b7291b7686db252.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/WoodFloor004_1K-JPG/WoodFloor004_1K-JPG_NormalDX.jpg"
-dest_files=["res://.godot/imported/WoodFloor004_1K-JPG_NormalDX.jpg-e5c471b9d62e3a0b4be436070a8a9f0a.ctex"]
+source_file="res://assets-cenário/WoodFloor004_1K-JPG/WoodFloor004_1K-JPG_NormalDX.jpg"
+dest_files=["res://.godot/imported/WoodFloor004_1K-JPG_NormalDX.jpg-9f6ced5fdd05595d9b7291b7686db252.ctex"]
 
 [params]
 

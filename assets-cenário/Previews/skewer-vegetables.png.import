@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bibk57gklsdpe"
-path="res://.godot/imported/skewer-vegetables.png-08cd47edfb9679bfd819cb13163643e8.ctex"
+path="res://.godot/imported/skewer-vegetables.png-f0499e4ea0526427105a3b5a117490be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/skewer-vegetables.png"
-dest_files=["res://.godot/imported/skewer-vegetables.png-08cd47edfb9679bfd819cb13163643e8.ctex"]
+source_file="res://assets-cenário/Previews/skewer-vegetables.png"
+dest_files=["res://.godot/imported/skewer-vegetables.png-f0499e4ea0526427105a3b5a117490be.ctex"]
 
 [params]
 

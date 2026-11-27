@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://tdcaf7udtxv3"
-path="res://.godot/imported/skewer-vegetables.fbx-8e32a560cbb1f3bd00dd129ec26bd52d.scn"
+path="res://.godot/imported/skewer-vegetables.fbx-79c3c4da049f82d9d2734568c35372cb.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/skewer-vegetables.fbx"
-dest_files=["res://.godot/imported/skewer-vegetables.fbx-8e32a560cbb1f3bd00dd129ec26bd52d.scn"]
+source_file="res://assets-cenário/Models/FBX format/skewer-vegetables.fbx"
+dest_files=["res://.godot/imported/skewer-vegetables.fbx-79c3c4da049f82d9d2734568c35372cb.scn"]
 
 [params]
 

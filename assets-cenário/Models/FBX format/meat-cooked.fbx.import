@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dk4yrrj6ua0br"
-path="res://.godot/imported/meat-cooked.fbx-cb62f8434f384ea360ba76311f931a83.scn"
+path="res://.godot/imported/meat-cooked.fbx-8ba7df47035685c1be6afe017b7ea728.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/meat-cooked.fbx"
-dest_files=["res://.godot/imported/meat-cooked.fbx-cb62f8434f384ea360ba76311f931a83.scn"]
+source_file="res://assets-cenário/Models/FBX format/meat-cooked.fbx"
+dest_files=["res://.godot/imported/meat-cooked.fbx-8ba7df47035685c1be6afe017b7ea728.scn"]
 
 [params]
 

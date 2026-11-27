@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bm55ktbvak46i"
-path="res://.godot/imported/grapes.fbx-fc9155a872f59f049a10eabc88d0c27f.scn"
+path="res://.godot/imported/grapes.fbx-45073be63c9eb83feaba3b86dc9df1a8.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/grapes.fbx"
-dest_files=["res://.godot/imported/grapes.fbx-fc9155a872f59f049a10eabc88d0c27f.scn"]
+source_file="res://assets-cenário/Models/FBX format/grapes.fbx"
+dest_files=["res://.godot/imported/grapes.fbx-45073be63c9eb83feaba3b86dc9df1a8.scn"]
 
 [params]
 

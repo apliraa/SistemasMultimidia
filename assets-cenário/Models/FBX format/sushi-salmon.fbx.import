@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://clpid22xgn50x"
-path="res://.godot/imported/sushi-salmon.fbx-a3ab2fbf65a31ebad8cbf298569511ee.scn"
+path="res://.godot/imported/sushi-salmon.fbx-07cdd89a65a28c93e718d24e96053c93.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/sushi-salmon.fbx"
-dest_files=["res://.godot/imported/sushi-salmon.fbx-a3ab2fbf65a31ebad8cbf298569511ee.scn"]
+source_file="res://assets-cenário/Models/FBX format/sushi-salmon.fbx"
+dest_files=["res://.godot/imported/sushi-salmon.fbx-07cdd89a65a28c93e718d24e96053c93.scn"]
 
 [params]
 

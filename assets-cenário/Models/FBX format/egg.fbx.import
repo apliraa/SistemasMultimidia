@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmfy11vtyhrxq"
-path="res://.godot/imported/egg.fbx-22582e4a634c4fe160e85b361fa7ab50.scn"
+path="res://.godot/imported/egg.fbx-ec3a03808b996dd7c6320d8c934112e0.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/egg.fbx"
-dest_files=["res://.godot/imported/egg.fbx-22582e4a634c4fe160e85b361fa7ab50.scn"]
+source_file="res://assets-cenário/Models/FBX format/egg.fbx"
+dest_files=["res://.godot/imported/egg.fbx-ec3a03808b996dd7c6320d8c934112e0.scn"]
 
 [params]
 

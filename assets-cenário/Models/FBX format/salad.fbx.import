@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://caxt88y7v62r"
-path="res://.godot/imported/salad.fbx-baedc63078943f3b9a58877bacea22e9.scn"
+path="res://.godot/imported/salad.fbx-3cc3b82fb5cc936d41a12eb59a20e99d.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/salad.fbx"
-dest_files=["res://.godot/imported/salad.fbx-baedc63078943f3b9a58877bacea22e9.scn"]
+source_file="res://assets-cenário/Models/FBX format/salad.fbx"
+dest_files=["res://.godot/imported/salad.fbx-3cc3b82fb5cc936d41a12eb59a20e99d.scn"]
 
 [params]
 

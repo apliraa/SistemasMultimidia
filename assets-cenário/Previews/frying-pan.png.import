@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf4s5o4gtru7x"
-path="res://.godot/imported/frying-pan.png-b1679c128ff137b24e05babb94d42a5c.ctex"
+path="res://.godot/imported/frying-pan.png-535de54621d6478ea47f5e32191f2171.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/frying-pan.png"
-dest_files=["res://.godot/imported/frying-pan.png-b1679c128ff137b24e05babb94d42a5c.ctex"]
+source_file="res://assets-cenário/Previews/frying-pan.png"
+dest_files=["res://.godot/imported/frying-pan.png-535de54621d6478ea47f5e32191f2171.ctex"]
 
 [params]
 

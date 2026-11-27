@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7ecsexb5jtw0"
-path="res://.godot/imported/apple-half.png-80472cd3058f9d2416641509133ff9fa.ctex"
+path="res://.godot/imported/apple-half.png-db4b46cd9c3835c5842ecd9da58c59df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/apple-half.png"
-dest_files=["res://.godot/imported/apple-half.png-80472cd3058f9d2416641509133ff9fa.ctex"]
+source_file="res://assets-cenário/Previews/apple-half.png"
+dest_files=["res://.godot/imported/apple-half.png-db4b46cd9c3835c5842ecd9da58c59df.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckynpw635e0cv"
-path="res://.godot/imported/maki-roe.png-8f6e4ea374dc7970e43ee6a585656f3e.ctex"
+path="res://.godot/imported/maki-roe.png-6de7c488e4ca1a03483c5ada3446adfd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/maki-roe.png"
-dest_files=["res://.godot/imported/maki-roe.png-8f6e4ea374dc7970e43ee6a585656f3e.ctex"]
+source_file="res://assets-cenário/Previews/maki-roe.png"
+dest_files=["res://.godot/imported/maki-roe.png-6de7c488e4ca1a03483c5ada3446adfd.ctex"]
 
 [params]
 

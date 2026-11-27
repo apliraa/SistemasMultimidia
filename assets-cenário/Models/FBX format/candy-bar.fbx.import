@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xij14o5fudfa"
-path="res://.godot/imported/candy-bar.fbx-cc4a809c75d6346204dbf327a9bf001c.scn"
+path="res://.godot/imported/candy-bar.fbx-8d6949753d8e6527962e668ec704750a.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/candy-bar.fbx"
-dest_files=["res://.godot/imported/candy-bar.fbx-cc4a809c75d6346204dbf327a9bf001c.scn"]
+source_file="res://assets-cenário/Models/FBX format/candy-bar.fbx"
+dest_files=["res://.godot/imported/candy-bar.fbx-8d6949753d8e6527962e668ec704750a.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dutws0xt70n7e"
-path="res://.godot/imported/carton-small.png-776547f95a62534dc7b47e679c8b94b0.ctex"
+path="res://.godot/imported/carton-small.png-bdae76c01997a357e50c68156423ec07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/carton-small.png"
-dest_files=["res://.godot/imported/carton-small.png-776547f95a62534dc7b47e679c8b94b0.ctex"]
+source_file="res://assets-cenário/Previews/carton-small.png"
+dest_files=["res://.godot/imported/carton-small.png-bdae76c01997a357e50c68156423ec07.ctex"]
 
 [params]
 

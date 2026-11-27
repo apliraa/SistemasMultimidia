@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bafvbiwcb2827"
-path="res://.godot/imported/loaf-round.fbx-7642562f8d2e184c8b01c04e0bbcd6c4.scn"
+path="res://.godot/imported/loaf-round.fbx-79e725bc0c55ec7aabaab08b84ec878e.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/loaf-round.fbx"
-dest_files=["res://.godot/imported/loaf-round.fbx-7642562f8d2e184c8b01c04e0bbcd6c4.scn"]
+source_file="res://assets-cenário/Models/FBX format/loaf-round.fbx"
+dest_files=["res://.godot/imported/loaf-round.fbx-79e725bc0c55ec7aabaab08b84ec878e.scn"]
 
 [params]
 

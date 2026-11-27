@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://41yoghgbvfoe"
-path="res://.godot/imported/bottle-ketchup.fbx-bacbae10e8d08bf65191256478e9b6ba.scn"
+path="res://.godot/imported/bottle-ketchup.fbx-3aed966e09de034129027db481b8aeaa.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/bottle-ketchup.fbx"
-dest_files=["res://.godot/imported/bottle-ketchup.fbx-bacbae10e8d08bf65191256478e9b6ba.scn"]
+source_file="res://assets-cenário/Models/FBX format/bottle-ketchup.fbx"
+dest_files=["res://.godot/imported/bottle-ketchup.fbx-3aed966e09de034129027db481b8aeaa.scn"]
 
 [params]
 

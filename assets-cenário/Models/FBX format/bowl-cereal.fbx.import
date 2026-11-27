@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cs5y4qow7puyt"
-path="res://.godot/imported/bowl-cereal.fbx-265fab1b78f3c984e784199ea27f76ae.scn"
+path="res://.godot/imported/bowl-cereal.fbx-5e8266499536c7877a4c82b4647d1faf.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/bowl-cereal.fbx"
-dest_files=["res://.godot/imported/bowl-cereal.fbx-265fab1b78f3c984e784199ea27f76ae.scn"]
+source_file="res://assets-cenário/Models/FBX format/bowl-cereal.fbx"
+dest_files=["res://.godot/imported/bowl-cereal.fbx-5e8266499536c7877a4c82b4647d1faf.scn"]
 
 [params]
 

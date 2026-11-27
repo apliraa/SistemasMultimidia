@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0fncpt2fsecq"
-path="res://.godot/imported/pancakes.png-620345e3a577159e8d8e8aec475c9ca1.ctex"
+path="res://.godot/imported/pancakes.png-6efa8a0ef386ede29840f79b1fc67095.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/pancakes.png"
-dest_files=["res://.godot/imported/pancakes.png-620345e3a577159e8d8e8aec475c9ca1.ctex"]
+source_file="res://assets-cenário/Previews/pancakes.png"
+dest_files=["res://.godot/imported/pancakes.png-6efa8a0ef386ede29840f79b1fc67095.ctex"]
 
 [params]
 

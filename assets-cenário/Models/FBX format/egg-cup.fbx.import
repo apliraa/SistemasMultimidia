@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bf1nee3vb43s3"
-path="res://.godot/imported/egg-cup.fbx-cafa905f031dd06bd5507b9a10d20195.scn"
+path="res://.godot/imported/egg-cup.fbx-c9fdee2df31e1a2f4d24a4e6e4a76c38.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/egg-cup.fbx"
-dest_files=["res://.godot/imported/egg-cup.fbx-cafa905f031dd06bd5507b9a10d20195.scn"]
+source_file="res://assets-cenário/Models/FBX format/egg-cup.fbx"
+dest_files=["res://.godot/imported/egg-cup.fbx-c9fdee2df31e1a2f4d24a4e6e4a76c38.scn"]
 
 [params]
 

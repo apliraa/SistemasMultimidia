@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cnswknvj2utra"
-path="res://.godot/imported/plate-dinner.fbx-42cb2905a984d42ebf60195deacb518c.scn"
+path="res://.godot/imported/plate-dinner.fbx-43817f276da68543f48a824bbb789f24.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/plate-dinner.fbx"
-dest_files=["res://.godot/imported/plate-dinner.fbx-42cb2905a984d42ebf60195deacb518c.scn"]
+source_file="res://assets-cenário/Models/FBX format/plate-dinner.fbx"
+dest_files=["res://.godot/imported/plate-dinner.fbx-43817f276da68543f48a824bbb789f24.scn"]
 
 [params]
 

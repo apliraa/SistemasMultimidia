@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b5jmuuy1hhta4"
-path="res://.godot/imported/watermelon.fbx-36f63a63447ac81ae9a99e6fbcb116f8.scn"
+path="res://.godot/imported/watermelon.fbx-73c39128bbb4e87f28bdcf3c066a3b2d.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/watermelon.fbx"
-dest_files=["res://.godot/imported/watermelon.fbx-36f63a63447ac81ae9a99e6fbcb116f8.scn"]
+source_file="res://assets-cenário/Models/FBX format/watermelon.fbx"
+dest_files=["res://.godot/imported/watermelon.fbx-73c39128bbb4e87f28bdcf3c066a3b2d.scn"]
 
 [params]
 

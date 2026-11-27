@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgdujnbk7qr7u"
-path="res://.godot/imported/lemon.png-283871b6cd5861beba038a1711d15028.ctex"
+path="res://.godot/imported/lemon.png-4bfbdbcbb8f8be7eeabefe0fbedd1597.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/lemon.png"
-dest_files=["res://.godot/imported/lemon.png-283871b6cd5861beba038a1711d15028.ctex"]
+source_file="res://assets-cenário/Previews/lemon.png"
+dest_files=["res://.godot/imported/lemon.png-4bfbdbcbb8f8be7eeabefe0fbedd1597.ctex"]
 
 [params]
 

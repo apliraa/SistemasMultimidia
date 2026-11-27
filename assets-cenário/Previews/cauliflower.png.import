@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cms65daqs3e3o"
-path="res://.godot/imported/cauliflower.png-52a2f53fc4fc1be42c5e0d3d29acd4bd.ctex"
+path="res://.godot/imported/cauliflower.png-5d14fed82541a8af361bbc2722a94c43.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/cauliflower.png"
-dest_files=["res://.godot/imported/cauliflower.png-52a2f53fc4fc1be42c5e0d3d29acd4bd.ctex"]
+source_file="res://assets-cenário/Previews/cauliflower.png"
+dest_files=["res://.godot/imported/cauliflower.png-5d14fed82541a8af361bbc2722a94c43.ctex"]
 
 [params]
 

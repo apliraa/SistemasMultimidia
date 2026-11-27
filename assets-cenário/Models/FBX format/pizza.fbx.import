@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cl14lq84fldaq"
-path="res://.godot/imported/pizza.fbx-b3f860a48e32e2e4655de39509d24189.scn"
+path="res://.godot/imported/pizza.fbx-e534f5ff9be0ca33ba8a10680035befe.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/pizza.fbx"
-dest_files=["res://.godot/imported/pizza.fbx-b3f860a48e32e2e4655de39509d24189.scn"]
+source_file="res://assets-cenário/Models/FBX format/pizza.fbx"
+dest_files=["res://.godot/imported/pizza.fbx-e534f5ff9be0ca33ba8a10680035befe.scn"]
 
 [params]
 

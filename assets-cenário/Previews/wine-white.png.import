@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b58o1hdk1uqtl"
-path="res://.godot/imported/wine-white.png-dab43ba0ce8de1ec31803220586beecb.ctex"
+path="res://.godot/imported/wine-white.png-ce840d5686f9ebd46626d124df0ddbb6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/wine-white.png"
-dest_files=["res://.godot/imported/wine-white.png-dab43ba0ce8de1ec31803220586beecb.ctex"]
+source_file="res://assets-cenário/Previews/wine-white.png"
+dest_files=["res://.godot/imported/wine-white.png-ce840d5686f9ebd46626d124df0ddbb6.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c5p7c11bchabp"
-path="res://.godot/imported/sausage.fbx-d4475d09c73a70582dc6679dd2966390.scn"
+path="res://.godot/imported/sausage.fbx-ac0f008ef62fb5f3cba3bb18379a00a5.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/sausage.fbx"
-dest_files=["res://.godot/imported/sausage.fbx-d4475d09c73a70582dc6679dd2966390.scn"]
+source_file="res://assets-cenário/Models/FBX format/sausage.fbx"
+dest_files=["res://.godot/imported/sausage.fbx-ac0f008ef62fb5f3cba3bb18379a00a5.scn"]
 
 [params]
 

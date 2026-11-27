@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://iw0mbb2e37uc"
-path="res://.godot/imported/broccoli.fbx-0f61640f910d5d3b5a1b2ed47a56ff84.scn"
+path="res://.godot/imported/broccoli.fbx-ac423398e2e93d8476c1a4996c7f333d.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/broccoli.fbx"
-dest_files=["res://.godot/imported/broccoli.fbx-0f61640f910d5d3b5a1b2ed47a56ff84.scn"]
+source_file="res://assets-cenário/Models/FBX format/broccoli.fbx"
+dest_files=["res://.godot/imported/broccoli.fbx-ac423398e2e93d8476c1a4996c7f333d.scn"]
 
 [params]
 

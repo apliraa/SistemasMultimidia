@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cs7s1e8tpp7xf"
-path="res://.godot/imported/lemon.fbx-d22f2ef9b905e95996efd645e9664f4b.scn"
+path="res://.godot/imported/lemon.fbx-4c110e76c37ebe4875f5430f055dcfa3.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/lemon.fbx"
-dest_files=["res://.godot/imported/lemon.fbx-d22f2ef9b905e95996efd645e9664f4b.scn"]
+source_file="res://assets-cenário/Models/FBX format/lemon.fbx"
+dest_files=["res://.godot/imported/lemon.fbx-4c110e76c37ebe4875f5430f055dcfa3.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://7q1j62yhb0hk"
-path="res://.godot/imported/utensil-fork.fbx-68eb83901848186a2895f1ccffa6ef1d.scn"
+path="res://.godot/imported/utensil-fork.fbx-b9429d2115b801d3e586011268dc1bcb.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/utensil-fork.fbx"
-dest_files=["res://.godot/imported/utensil-fork.fbx-68eb83901848186a2895f1ccffa6ef1d.scn"]
+source_file="res://assets-cenário/Models/FBX format/utensil-fork.fbx"
+dest_files=["res://.godot/imported/utensil-fork.fbx-b9429d2115b801d3e586011268dc1bcb.scn"]
 
 [params]
 

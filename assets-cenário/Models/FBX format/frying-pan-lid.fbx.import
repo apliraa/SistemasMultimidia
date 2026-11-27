@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddojktc451tsm"
-path="res://.godot/imported/frying-pan-lid.fbx-6847d902f138ea9763b2aad595fce3f1.scn"
+path="res://.godot/imported/frying-pan-lid.fbx-f6081cb827d1a00975db13d4dbd383e1.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/frying-pan-lid.fbx"
-dest_files=["res://.godot/imported/frying-pan-lid.fbx-6847d902f138ea9763b2aad595fce3f1.scn"]
+source_file="res://assets-cenário/Models/FBX format/frying-pan-lid.fbx"
+dest_files=["res://.godot/imported/frying-pan-lid.fbx-f6081cb827d1a00975db13d4dbd383e1.scn"]
 
 [params]
 

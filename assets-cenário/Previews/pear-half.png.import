@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byxq50p65m2h"
-path="res://.godot/imported/pear-half.png-f86cbcafd7404e58921be0c0ffc31905.ctex"
+path="res://.godot/imported/pear-half.png-09bfe7632f8fd65498b59f5702244e82.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/pear-half.png"
-dest_files=["res://.godot/imported/pear-half.png-f86cbcafd7404e58921be0c0ffc31905.ctex"]
+source_file="res://assets-cenário/Previews/pear-half.png"
+dest_files=["res://.godot/imported/pear-half.png-09bfe7632f8fd65498b59f5702244e82.ctex"]
 
 [params]
 

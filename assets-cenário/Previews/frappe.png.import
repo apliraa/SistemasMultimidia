@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc0hrg3kq5t76"
-path="res://.godot/imported/frappe.png-78d259283c68f37faedb413beb6653da.ctex"
+path="res://.godot/imported/frappe.png-05e3163c015eba5b2b8b9e65a9565246.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/frappe.png"
-dest_files=["res://.godot/imported/frappe.png-78d259283c68f37faedb413beb6653da.ctex"]
+source_file="res://assets-cenário/Previews/frappe.png"
+dest_files=["res://.godot/imported/frappe.png-05e3163c015eba5b2b8b9e65a9565246.ctex"]
 
 [params]
 

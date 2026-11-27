@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf6ji4e4iqtvd"
-path="res://.godot/imported/cheese-slicer.png-160e724d6b1bb38911dab784906b73d4.ctex"
+path="res://.godot/imported/cheese-slicer.png-53bc8a838f71e57929b568f9e8ee4c90.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/cheese-slicer.png"
-dest_files=["res://.godot/imported/cheese-slicer.png-160e724d6b1bb38911dab784906b73d4.ctex"]
+source_file="res://assets-cenário/Previews/cheese-slicer.png"
+dest_files=["res://.godot/imported/cheese-slicer.png-53bc8a838f71e57929b568f9e8ee4c90.ctex"]
 
 [params]
 

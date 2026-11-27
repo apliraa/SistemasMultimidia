@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dcf244tnju805"
-path="res://.godot/imported/knife-block.fbx-b76bf9fb54eb458d90526ba53bb8a9a9.scn"
+path="res://.godot/imported/knife-block.fbx-891d317fd10b8b8d6d7e7dc493c38a24.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/knife-block.fbx"
-dest_files=["res://.godot/imported/knife-block.fbx-b76bf9fb54eb458d90526ba53bb8a9a9.scn"]
+source_file="res://assets-cenário/Models/FBX format/knife-block.fbx"
+dest_files=["res://.godot/imported/knife-block.fbx-891d317fd10b8b8d6d7e7dc493c38a24.scn"]
 
 [params]
 

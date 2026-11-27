@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brmr531fki23j"
-path="res://.godot/imported/fries-empty.png-21fc40efd67987f15302c18f20f1bf2e.ctex"
+path="res://.godot/imported/fries-empty.png-bb5be15d8160107d454ca6121e138997.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/fries-empty.png"
-dest_files=["res://.godot/imported/fries-empty.png-21fc40efd67987f15302c18f20f1bf2e.ctex"]
+source_file="res://assets-cenário/Previews/fries-empty.png"
+dest_files=["res://.godot/imported/fries-empty.png-bb5be15d8160107d454ca6121e138997.ctex"]
 
 [params]
 

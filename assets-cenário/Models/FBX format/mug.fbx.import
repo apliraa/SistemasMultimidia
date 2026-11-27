@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgompgvpuc35j"
-path="res://.godot/imported/mug.fbx-cf21a4f2d548451c2414d9d3ce28b63d.scn"
+path="res://.godot/imported/mug.fbx-780db635b16801347eba039e9afdf4f5.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/mug.fbx"
-dest_files=["res://.godot/imported/mug.fbx-cf21a4f2d548451c2414d9d3ce28b63d.scn"]
+source_file="res://assets-cenário/Models/FBX format/mug.fbx"
+dest_files=["res://.godot/imported/mug.fbx-780db635b16801347eba039e9afdf4f5.scn"]
 
 [params]
 

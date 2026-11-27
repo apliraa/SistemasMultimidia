@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ceisiby2ys4m4"
-path="res://.godot/imported/meat-raw.fbx-ecaf21b96eb1d330d7576ffe78e96c27.scn"
+path="res://.godot/imported/meat-raw.fbx-66f6b9c0fba342738c0797b63f7022d5.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/meat-raw.fbx"
-dest_files=["res://.godot/imported/meat-raw.fbx-ecaf21b96eb1d330d7576ffe78e96c27.scn"]
+source_file="res://assets-cenário/Models/FBX format/meat-raw.fbx"
+dest_files=["res://.godot/imported/meat-raw.fbx-66f6b9c0fba342738c0797b63f7022d5.scn"]
 
 [params]
 

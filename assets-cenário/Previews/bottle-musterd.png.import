@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0poqex7ubw1w"
-path="res://.godot/imported/bottle-musterd.png-44b01b3f377150f3c1bcd9530c55d8d1.ctex"
+path="res://.godot/imported/bottle-musterd.png-54c6bb3314ecc4d6f2e255975acd6856.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/bottle-musterd.png"
-dest_files=["res://.godot/imported/bottle-musterd.png-44b01b3f377150f3c1bcd9530c55d8d1.ctex"]
+source_file="res://assets-cenário/Previews/bottle-musterd.png"
+dest_files=["res://.godot/imported/bottle-musterd.png-54c6bb3314ecc4d6f2e255975acd6856.ctex"]
 
 [params]
 

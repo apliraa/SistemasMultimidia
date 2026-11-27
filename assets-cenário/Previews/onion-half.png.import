@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3b2w5dvkhtdm"
-path="res://.godot/imported/onion-half.png-364af387f4854cc4ba22700edcfa4395.ctex"
+path="res://.godot/imported/onion-half.png-6712ce8e47a666d8c28c066d3b17f7e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/onion-half.png"
-dest_files=["res://.godot/imported/onion-half.png-364af387f4854cc4ba22700edcfa4395.ctex"]
+source_file="res://assets-cenário/Previews/onion-half.png"
+dest_files=["res://.godot/imported/onion-half.png-6712ce8e47a666d8c28c066d3b17f7e0.ctex"]
 
 [params]
 

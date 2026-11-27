@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bwsgvlmff4lyt"
-path="res://.godot/imported/whipped-cream.fbx-5231bd88c4fcf1df7b937e4cda4305d2.scn"
+path="res://.godot/imported/whipped-cream.fbx-212f24512ba207e482e567f7c3a68681.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/whipped-cream.fbx"
-dest_files=["res://.godot/imported/whipped-cream.fbx-5231bd88c4fcf1df7b937e4cda4305d2.scn"]
+source_file="res://assets-cenário/Models/FBX format/whipped-cream.fbx"
+dest_files=["res://.godot/imported/whipped-cream.fbx-212f24512ba207e482e567f7c3a68681.scn"]
 
 [params]
 

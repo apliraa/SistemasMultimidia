@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d8g6b4pidv5s"
-path="res://.godot/imported/rice-ball.png-d1af874530ce8d85aa4b10dfb6bd4dda.ctex"
+path="res://.godot/imported/rice-ball.png-c9c2690f7db24b0e4f54fb1d0cbe7b51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/rice-ball.png"
-dest_files=["res://.godot/imported/rice-ball.png-d1af874530ce8d85aa4b10dfb6bd4dda.ctex"]
+source_file="res://assets-cenário/Previews/rice-ball.png"
+dest_files=["res://.godot/imported/rice-ball.png-c9c2690f7db24b0e4f54fb1d0cbe7b51.ctex"]
 
 [params]
 

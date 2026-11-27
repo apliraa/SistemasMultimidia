@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0hirpgjihyyw"
-path="res://.godot/imported/cooking-knife-chopping.png-d79f13754489d4ea1ca7eac002639109.ctex"
+path="res://.godot/imported/cooking-knife-chopping.png-9e1de06589c1f935a7e6a88bdbbecafd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/cooking-knife-chopping.png"
-dest_files=["res://.godot/imported/cooking-knife-chopping.png-d79f13754489d4ea1ca7eac002639109.ctex"]
+source_file="res://assets-cenário/Previews/cooking-knife-chopping.png"
+dest_files=["res://.godot/imported/cooking-knife-chopping.png-9e1de06589c1f935a7e6a88bdbbecafd.ctex"]
 
 [params]
 

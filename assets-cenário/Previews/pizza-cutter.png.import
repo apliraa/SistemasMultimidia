@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2e76jo2j0tbe"
-path="res://.godot/imported/pizza-cutter.png-1606c8a6428c72bc36d83ea2c676cac6.ctex"
+path="res://.godot/imported/pizza-cutter.png-8092e1bf75657507f9cdb966bbc64e2c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/pizza-cutter.png"
-dest_files=["res://.godot/imported/pizza-cutter.png-1606c8a6428c72bc36d83ea2c676cac6.ctex"]
+source_file="res://assets-cenário/Previews/pizza-cutter.png"
+dest_files=["res://.godot/imported/pizza-cutter.png-8092e1bf75657507f9cdb966bbc64e2c.ctex"]
 
 [params]
 

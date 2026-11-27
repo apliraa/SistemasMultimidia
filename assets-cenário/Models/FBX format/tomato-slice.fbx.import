@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://boltsgjbtptke"
-path="res://.godot/imported/tomato-slice.fbx-b29bf8f918cd0ae191a940dfdd3b17a6.scn"
+path="res://.godot/imported/tomato-slice.fbx-05a4499c5a0046bf4e1b130c5c6622ee.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/tomato-slice.fbx"
-dest_files=["res://.godot/imported/tomato-slice.fbx-b29bf8f918cd0ae191a940dfdd3b17a6.scn"]
+source_file="res://assets-cenário/Models/FBX format/tomato-slice.fbx"
+dest_files=["res://.godot/imported/tomato-slice.fbx-05a4499c5a0046bf4e1b130c5c6622ee.scn"]
 
 [params]
 

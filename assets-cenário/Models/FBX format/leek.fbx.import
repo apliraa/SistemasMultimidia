@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c281c5b6dhs62"
-path="res://.godot/imported/leek.fbx-c2c93878386c473f765dd092dbeda13e.scn"
+path="res://.godot/imported/leek.fbx-19baf7d8dedc16af7f7305d2fe3d2fdb.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/leek.fbx"
-dest_files=["res://.godot/imported/leek.fbx-c2c93878386c473f765dd092dbeda13e.scn"]
+source_file="res://assets-cenário/Models/FBX format/leek.fbx"
+dest_files=["res://.godot/imported/leek.fbx-19baf7d8dedc16af7f7305d2fe3d2fdb.scn"]
 
 [params]
 

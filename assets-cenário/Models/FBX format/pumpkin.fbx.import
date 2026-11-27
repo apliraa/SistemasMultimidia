@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cwp62vt4kce7e"
-path="res://.godot/imported/pumpkin.fbx-aa48e940170721103e39352bffbb912f.scn"
+path="res://.godot/imported/pumpkin.fbx-2920ff67e56de1c32537f5c0a7acbdf3.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/pumpkin.fbx"
-dest_files=["res://.godot/imported/pumpkin.fbx-aa48e940170721103e39352bffbb912f.scn"]
+source_file="res://assets-cenário/Models/FBX format/pumpkin.fbx"
+dest_files=["res://.godot/imported/pumpkin.fbx-2920ff67e56de1c32537f5c0a7acbdf3.scn"]
 
 [params]
 

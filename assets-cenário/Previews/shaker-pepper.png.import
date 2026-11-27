@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lkg8feg3uxuf"
-path="res://.godot/imported/shaker-pepper.png-16fdbbae24d19af50860590647b12191.ctex"
+path="res://.godot/imported/shaker-pepper.png-fd77c4f777c2e571ff0cdc96492579e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/shaker-pepper.png"
-dest_files=["res://.godot/imported/shaker-pepper.png-16fdbbae24d19af50860590647b12191.ctex"]
+source_file="res://assets-cenário/Previews/shaker-pepper.png"
+dest_files=["res://.godot/imported/shaker-pepper.png-fd77c4f777c2e571ff0cdc96492579e6.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b86od06x4mp2o"
-path="res://.godot/imported/mortar.fbx-b39c745ed7df6736cbaf1a240525054f.scn"
+path="res://.godot/imported/mortar.fbx-cd6cdac6af285aba7f517750694891e9.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/mortar.fbx"
-dest_files=["res://.godot/imported/mortar.fbx-b39c745ed7df6736cbaf1a240525054f.scn"]
+source_file="res://assets-cenário/Models/FBX format/mortar.fbx"
+dest_files=["res://.godot/imported/mortar.fbx-cd6cdac6af285aba7f517750694891e9.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0mo5ifbxwhgs"
-path="res://.godot/imported/celery-stick.fbx-4653646bb43e77d0c9d1d0139fc127d6.scn"
+path="res://.godot/imported/celery-stick.fbx-41b78c1c53037ab2d7e894feec3c1794.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/celery-stick.fbx"
-dest_files=["res://.godot/imported/celery-stick.fbx-4653646bb43e77d0c9d1d0139fc127d6.scn"]
+source_file="res://assets-cenário/Models/FBX format/celery-stick.fbx"
+dest_files=["res://.godot/imported/celery-stick.fbx-41b78c1c53037ab2d7e894feec3c1794.scn"]
 
 [params]
 

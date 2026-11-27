@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://gcs2ean1rref"
-path="res://.godot/imported/cup-saucer.fbx-a79b84bd4cc965fe9c57d3ac68f5ee8b.scn"
+path="res://.godot/imported/cup-saucer.fbx-9bde2382acbb9a3cd9dfcdab4568d8bb.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cup-saucer.fbx"
-dest_files=["res://.godot/imported/cup-saucer.fbx-a79b84bd4cc965fe9c57d3ac68f5ee8b.scn"]
+source_file="res://assets-cenário/Models/FBX format/cup-saucer.fbx"
+dest_files=["res://.godot/imported/cup-saucer.fbx-9bde2382acbb9a3cd9dfcdab4568d8bb.scn"]
 
 [params]
 

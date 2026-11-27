@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c41admhg4ik36"
-path="res://.godot/imported/taco.fbx-6e9d4bdd00ed95d452979c4ce866e970.scn"
+path="res://.godot/imported/taco.fbx-ee64a3c54c59e63383e96210262ba57b.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/taco.fbx"
-dest_files=["res://.godot/imported/taco.fbx-6e9d4bdd00ed95d452979c4ce866e970.scn"]
+source_file="res://assets-cenário/Models/FBX format/taco.fbx"
+dest_files=["res://.godot/imported/taco.fbx-ee64a3c54c59e63383e96210262ba57b.scn"]
 
 [params]
 

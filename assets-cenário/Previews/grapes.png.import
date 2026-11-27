@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gbbfumskq0d8"
-path="res://.godot/imported/grapes.png-cb538d622696060f9460af5a570c4c58.ctex"
+path="res://.godot/imported/grapes.png-d0fa4cf3c8197b98a1b675d68b427bf0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/grapes.png"
-dest_files=["res://.godot/imported/grapes.png-cb538d622696060f9460af5a570c4c58.ctex"]
+source_file="res://assets-cenário/Previews/grapes.png"
+dest_files=["res://.godot/imported/grapes.png-d0fa4cf3c8197b98a1b675d68b427bf0.ctex"]
 
 [params]
 

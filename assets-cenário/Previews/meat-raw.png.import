@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2jje7okegfat"
-path="res://.godot/imported/meat-raw.png-afeaca7ce53b07453608e98c46acb022.ctex"
+path="res://.godot/imported/meat-raw.png-19e962fde472a4315fb72e45ba51fb83.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/meat-raw.png"
-dest_files=["res://.godot/imported/meat-raw.png-afeaca7ce53b07453608e98c46acb022.ctex"]
+source_file="res://assets-cenário/Previews/meat-raw.png"
+dest_files=["res://.godot/imported/meat-raw.png-19e962fde472a4315fb72e45ba51fb83.ctex"]
 
 [params]
 

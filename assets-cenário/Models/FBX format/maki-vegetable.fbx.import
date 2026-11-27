@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dtgb2o1r3pnjv"
-path="res://.godot/imported/maki-vegetable.fbx-e514695d367fe26dab3251fd8d293d7f.scn"
+path="res://.godot/imported/maki-vegetable.fbx-9f27e873e0b69d871ae4d8f228899e8f.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/maki-vegetable.fbx"
-dest_files=["res://.godot/imported/maki-vegetable.fbx-e514695d367fe26dab3251fd8d293d7f.scn"]
+source_file="res://assets-cenário/Models/FBX format/maki-vegetable.fbx"
+dest_files=["res://.godot/imported/maki-vegetable.fbx-9f27e873e0b69d871ae4d8f228899e8f.scn"]
 
 [params]
 

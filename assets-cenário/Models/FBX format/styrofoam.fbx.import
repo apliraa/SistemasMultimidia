@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://baoy5y7ibpjx4"
-path="res://.godot/imported/styrofoam.fbx-6f9c46c0c96daa0d83a817b3998389de.scn"
+path="res://.godot/imported/styrofoam.fbx-f9a26acd5e2d1f27e1bd5f037b4e1596.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/styrofoam.fbx"
-dest_files=["res://.godot/imported/styrofoam.fbx-6f9c46c0c96daa0d83a817b3998389de.scn"]
+source_file="res://assets-cenário/Models/FBX format/styrofoam.fbx"
+dest_files=["res://.godot/imported/styrofoam.fbx-f9a26acd5e2d1f27e1bd5f037b4e1596.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c3fxnpft7w3nb"
-path="res://.godot/imported/cake-birthday.fbx-55ab71c986335f82c95b7fb953420d5a.scn"
+path="res://.godot/imported/cake-birthday.fbx-ed5ec1f247ad1d095076dd5dc0e3a70c.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cake-birthday.fbx"
-dest_files=["res://.godot/imported/cake-birthday.fbx-55ab71c986335f82c95b7fb953420d5a.scn"]
+source_file="res://assets-cenário/Models/FBX format/cake-birthday.fbx"
+dest_files=["res://.godot/imported/cake-birthday.fbx-ed5ec1f247ad1d095076dd5dc0e3a70c.scn"]
 
 [params]
 

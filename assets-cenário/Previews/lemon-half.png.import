@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du5b7rg8kupdn"
-path="res://.godot/imported/lemon-half.png-c0ee61145360202686bd1954c416d244.ctex"
+path="res://.godot/imported/lemon-half.png-c349bd33bedd3d568b8657c80a4d2315.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/lemon-half.png"
-dest_files=["res://.godot/imported/lemon-half.png-c0ee61145360202686bd1954c416d244.ctex"]
+source_file="res://assets-cenário/Previews/lemon-half.png"
+dest_files=["res://.godot/imported/lemon-half.png-c349bd33bedd3d568b8657c80a4d2315.ctex"]
 
 [params]
 

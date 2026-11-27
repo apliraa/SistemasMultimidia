@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bs03qjy148r2"
-path="res://.godot/imported/lemon-half.fbx-eac78d5f107cbf4931b636e4135aaf30.scn"
+path="res://.godot/imported/lemon-half.fbx-cbbb1f114a824ca361937fea072929ca.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/lemon-half.fbx"
-dest_files=["res://.godot/imported/lemon-half.fbx-eac78d5f107cbf4931b636e4135aaf30.scn"]
+source_file="res://assets-cenário/Models/FBX format/lemon-half.fbx"
+dest_files=["res://.godot/imported/lemon-half.fbx-cbbb1f114a824ca361937fea072929ca.scn"]
 
 [params]
 

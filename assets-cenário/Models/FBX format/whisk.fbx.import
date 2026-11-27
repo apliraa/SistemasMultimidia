@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cbsjhuwwg34ox"
-path="res://.godot/imported/whisk.fbx-ab45b131c3c7dd7018e372dad9fa5407.scn"
+path="res://.godot/imported/whisk.fbx-3738523a67add15053646f70b15f0581.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/whisk.fbx"
-dest_files=["res://.godot/imported/whisk.fbx-ab45b131c3c7dd7018e372dad9fa5407.scn"]
+source_file="res://assets-cenário/Models/FBX format/whisk.fbx"
+dest_files=["res://.godot/imported/whisk.fbx-3738523a67add15053646f70b15f0581.scn"]
 
 [params]
 

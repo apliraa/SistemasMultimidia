@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyfrukm7n8sxm"
-path="res://.godot/imported/sausage.png-bae80267d6bec0a4e3d2091a3e78cc4f.ctex"
+path="res://.godot/imported/sausage.png-0cf85803eb291687bcdd9c4700a865f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/sausage.png"
-dest_files=["res://.godot/imported/sausage.png-bae80267d6bec0a4e3d2091a3e78cc4f.ctex"]
+source_file="res://assets-cenário/Previews/sausage.png"
+dest_files=["res://.godot/imported/sausage.png-0cf85803eb291687bcdd9c4700a865f2.ctex"]
 
 [params]
 

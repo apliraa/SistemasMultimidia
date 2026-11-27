@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b4ui1gbtup5e8"
-path="res://.godot/imported/cup-tea.fbx-8cf963429908917fb19408371456b1cd.scn"
+path="res://.godot/imported/cup-tea.fbx-394f5e2a9c51eebceb0298f70e46e7ee.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cup-tea.fbx"
-dest_files=["res://.godot/imported/cup-tea.fbx-8cf963429908917fb19408371456b1cd.scn"]
+source_file="res://assets-cenário/Models/FBX format/cup-tea.fbx"
+dest_files=["res://.godot/imported/cup-tea.fbx-394f5e2a9c51eebceb0298f70e46e7ee.scn"]
 
 [params]
 

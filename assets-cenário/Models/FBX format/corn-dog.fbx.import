@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://btbucn0leme5t"
-path="res://.godot/imported/corn-dog.fbx-04a5b87d9f614f730dd0db10be629297.scn"
+path="res://.godot/imported/corn-dog.fbx-322669d49b9afd7c593a53800b362280.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/corn-dog.fbx"
-dest_files=["res://.godot/imported/corn-dog.fbx-04a5b87d9f614f730dd0db10be629297.scn"]
+source_file="res://assets-cenário/Models/FBX format/corn-dog.fbx"
+dest_files=["res://.godot/imported/corn-dog.fbx-322669d49b9afd7c593a53800b362280.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ds6iiwnuv4432"
-path="res://.godot/imported/barrel.fbx-4d313a6678e51e5ad4de81b5b2b05afc.scn"
+path="res://.godot/imported/barrel.fbx-c52c3a38659acd48ade3adb310b7d54a.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/barrel.fbx"
-dest_files=["res://.godot/imported/barrel.fbx-4d313a6678e51e5ad4de81b5b2b05afc.scn"]
+source_file="res://assets-cenário/Models/FBX format/barrel.fbx"
+dest_files=["res://.godot/imported/barrel.fbx-c52c3a38659acd48ade3adb310b7d54a.scn"]
 
 [params]
 

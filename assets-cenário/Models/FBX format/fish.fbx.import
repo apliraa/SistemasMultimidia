@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://1fqsam71xvpj"
-path="res://.godot/imported/fish.fbx-a7993987253d3d675f6bfee4f3f836e0.scn"
+path="res://.godot/imported/fish.fbx-f76c283b4f3508e3a95b12d7f45f1378.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/fish.fbx"
-dest_files=["res://.godot/imported/fish.fbx-a7993987253d3d675f6bfee4f3f836e0.scn"]
+source_file="res://assets-cenário/Models/FBX format/fish.fbx"
+dest_files=["res://.godot/imported/fish.fbx-f76c283b4f3508e3a95b12d7f45f1378.scn"]
 
 [params]
 

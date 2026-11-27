@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://fw50kceh5o6j"
-path="res://.godot/imported/muffin.fbx-cdfac9107b2900de1bee72c1134f0aab.scn"
+path="res://.godot/imported/muffin.fbx-6edc9c73462a0e4f9e5701acb5bdb8a4.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/muffin.fbx"
-dest_files=["res://.godot/imported/muffin.fbx-cdfac9107b2900de1bee72c1134f0aab.scn"]
+source_file="res://assets-cenário/Models/FBX format/muffin.fbx"
+dest_files=["res://.godot/imported/muffin.fbx-6edc9c73462a0e4f9e5701acb5bdb8a4.scn"]
 
 [params]
 

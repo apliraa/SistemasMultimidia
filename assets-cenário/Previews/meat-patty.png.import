@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck2a8yr3yr58v"
-path="res://.godot/imported/meat-patty.png-3c4ec877655c5346e70dae05a6deb200.ctex"
+path="res://.godot/imported/meat-patty.png-df8224ed5286d2f5147abd687b97536b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/meat-patty.png"
-dest_files=["res://.godot/imported/meat-patty.png-3c4ec877655c5346e70dae05a6deb200.ctex"]
+source_file="res://assets-cenário/Previews/meat-patty.png"
+dest_files=["res://.godot/imported/meat-patty.png-df8224ed5286d2f5147abd687b97536b.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0a6jpl2qkknu"
-path="res://.godot/imported/waffle.fbx-d44fa346fda5da76d04940e7e81f37fb.scn"
+path="res://.godot/imported/waffle.fbx-fccc0b384f4367847995e6bbacf0ee18.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/waffle.fbx"
-dest_files=["res://.godot/imported/waffle.fbx-d44fa346fda5da76d04940e7e81f37fb.scn"]
+source_file="res://assets-cenário/Models/FBX format/waffle.fbx"
+dest_files=["res://.godot/imported/waffle.fbx-fccc0b384f4367847995e6bbacf0ee18.scn"]
 
 [params]
 

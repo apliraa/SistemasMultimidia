@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca8b20vy7slk1"
-path="res://.godot/imported/broccoli.png-dea21583b74d68ae04dc825a1f2cfb4c.ctex"
+path="res://.godot/imported/broccoli.png-d89ec927a89e6a8f3b7bfb5c97d763e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/broccoli.png"
-dest_files=["res://.godot/imported/broccoli.png-dea21583b74d68ae04dc825a1f2cfb4c.ctex"]
+source_file="res://assets-cenário/Previews/broccoli.png"
+dest_files=["res://.godot/imported/broccoli.png-d89ec927a89e6a8f3b7bfb5c97d763e6.ctex"]
 
 [params]
 

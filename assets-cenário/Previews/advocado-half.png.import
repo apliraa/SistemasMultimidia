@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlrw6yjan78vu"
-path="res://.godot/imported/advocado-half.png-a8e7b683d81df79e659e038b6aeb4b77.ctex"
+path="res://.godot/imported/advocado-half.png-6563c31b72d2366cad486d3c1e7db032.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/advocado-half.png"
-dest_files=["res://.godot/imported/advocado-half.png-a8e7b683d81df79e659e038b6aeb4b77.ctex"]
+source_file="res://assets-cenário/Previews/advocado-half.png"
+dest_files=["res://.godot/imported/advocado-half.png-6563c31b72d2366cad486d3c1e7db032.ctex"]
 
 [params]
 

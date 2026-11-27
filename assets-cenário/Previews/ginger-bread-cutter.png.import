@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br4jhgxwjhxnd"
-path="res://.godot/imported/ginger-bread-cutter.png-99f86c988849f7d64855fd33debad4ac.ctex"
+path="res://.godot/imported/ginger-bread-cutter.png-8d5c9d1b814c36cb774f4c43ca36c506.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/ginger-bread-cutter.png"
-dest_files=["res://.godot/imported/ginger-bread-cutter.png-99f86c988849f7d64855fd33debad4ac.ctex"]
+source_file="res://assets-cenário/Previews/ginger-bread-cutter.png"
+dest_files=["res://.godot/imported/ginger-bread-cutter.png-8d5c9d1b814c36cb774f4c43ca36c506.ctex"]
 
 [params]
 

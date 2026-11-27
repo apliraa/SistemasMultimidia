@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://da6br1lj78sk6"
-path="res://.godot/imported/maki-roe.fbx-6bfa441e09be98d908d6270e5bd639e7.scn"
+path="res://.godot/imported/maki-roe.fbx-60d8f0af06b16a5383057ee9115ffaff.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/maki-roe.fbx"
-dest_files=["res://.godot/imported/maki-roe.fbx-6bfa441e09be98d908d6270e5bd639e7.scn"]
+source_file="res://assets-cenário/Models/FBX format/maki-roe.fbx"
+dest_files=["res://.godot/imported/maki-roe.fbx-60d8f0af06b16a5383057ee9115ffaff.scn"]
 
 [params]
 

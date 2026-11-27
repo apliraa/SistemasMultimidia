@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfw3vgqrj024n"
-path="res://.godot/imported/salad.png-9a3cd1ae607f79059bd5b9c8001baee1.ctex"
+path="res://.godot/imported/salad.png-6aeb712bba370856297fbd1c0f05b4ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/salad.png"
-dest_files=["res://.godot/imported/salad.png-9a3cd1ae607f79059bd5b9c8001baee1.ctex"]
+source_file="res://assets-cenário/Previews/salad.png"
+dest_files=["res://.godot/imported/salad.png-6aeb712bba370856297fbd1c0f05b4ec.ctex"]
 
 [params]
 

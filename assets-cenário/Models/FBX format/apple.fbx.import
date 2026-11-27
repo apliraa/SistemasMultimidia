@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cvaej7sqr7nl1"
-path="res://.godot/imported/apple.fbx-83cc8060f5114c7341c792ad5bdda738.scn"
+path="res://.godot/imported/apple.fbx-01c73825cd0d899945533297d2cfd475.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/apple.fbx"
-dest_files=["res://.godot/imported/apple.fbx-83cc8060f5114c7341c792ad5bdda738.scn"]
+source_file="res://assets-cenário/Models/FBX format/apple.fbx"
+dest_files=["res://.godot/imported/apple.fbx-01c73825cd0d899945533297d2cfd475.scn"]
 
 [params]
 

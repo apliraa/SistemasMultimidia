@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://1bx1fsc3ngyo"
-path="res://.godot/imported/shaker-pepper.fbx-cf3a7e16b0d35289149aa822e79ee888.scn"
+path="res://.godot/imported/shaker-pepper.fbx-2bed62ace186823329445cfd05e1314e.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/shaker-pepper.fbx"
-dest_files=["res://.godot/imported/shaker-pepper.fbx-cf3a7e16b0d35289149aa822e79ee888.scn"]
+source_file="res://assets-cenário/Models/FBX format/shaker-pepper.fbx"
+dest_files=["res://.godot/imported/shaker-pepper.fbx-2bed62ace186823329445cfd05e1314e.scn"]
 
 [params]
 

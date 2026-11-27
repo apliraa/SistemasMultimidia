@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckxo2kfsq755s"
-path="res://.godot/imported/utensil-spoon.png-7dd6f15be06ebeaa75ce39e16804c884.ctex"
+path="res://.godot/imported/utensil-spoon.png-d2da5325a87470a073dfb9e462c5b497.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/utensil-spoon.png"
-dest_files=["res://.godot/imported/utensil-spoon.png-7dd6f15be06ebeaa75ce39e16804c884.ctex"]
+source_file="res://assets-cenário/Previews/utensil-spoon.png"
+dest_files=["res://.godot/imported/utensil-spoon.png-d2da5325a87470a073dfb9e462c5b497.ctex"]
 
 [params]
 

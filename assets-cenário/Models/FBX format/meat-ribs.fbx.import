@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://fd0wr0mbtq2c"
-path="res://.godot/imported/meat-ribs.fbx-a4f8aa6fab3f6c9c1de34618210f9acd.scn"
+path="res://.godot/imported/meat-ribs.fbx-6669811c00f78623ff3fd924b61f678f.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/meat-ribs.fbx"
-dest_files=["res://.godot/imported/meat-ribs.fbx-a4f8aa6fab3f6c9c1de34618210f9acd.scn"]
+source_file="res://assets-cenário/Models/FBX format/meat-ribs.fbx"
+dest_files=["res://.godot/imported/meat-ribs.fbx-6669811c00f78623ff3fd924b61f678f.scn"]
 
 [params]
 

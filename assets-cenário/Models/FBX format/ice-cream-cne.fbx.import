@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://2x855sc4wmug"
-path="res://.godot/imported/ice-cream-cne.fbx-af62fab25321d7593593772386adb976.scn"
+path="res://.godot/imported/ice-cream-cne.fbx-5b25b26bd7cbb00a9ef4594bbb911e29.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/ice-cream-cne.fbx"
-dest_files=["res://.godot/imported/ice-cream-cne.fbx-af62fab25321d7593593772386adb976.scn"]
+source_file="res://assets-cenário/Models/FBX format/ice-cream-cne.fbx"
+dest_files=["res://.godot/imported/ice-cream-cne.fbx-5b25b26bd7cbb00a9ef4594bbb911e29.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqamvna66tvg3"
-path="res://.godot/imported/hot-dog.png-3bfe4c5418cea336c1d5396e3daac03d.ctex"
+path="res://.godot/imported/hot-dog.png-68260e4ad7da518db3f3921bbfe9f84f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/hot-dog.png"
-dest_files=["res://.godot/imported/hot-dog.png-3bfe4c5418cea336c1d5396e3daac03d.ctex"]
+source_file="res://assets-cenário/Previews/hot-dog.png"
+dest_files=["res://.godot/imported/hot-dog.png-68260e4ad7da518db3f3921bbfe9f84f.ctex"]
 
 [params]
 

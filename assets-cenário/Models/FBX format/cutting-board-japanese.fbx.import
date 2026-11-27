@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://3r5bagtsujs6"
-path="res://.godot/imported/cutting-board-japanese.fbx-45b5a3b92db82052a8369252d869e6ed.scn"
+path="res://.godot/imported/cutting-board-japanese.fbx-06a13862f14d0add4ac98af7f0ca9af3.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cutting-board-japanese.fbx"
-dest_files=["res://.godot/imported/cutting-board-japanese.fbx-45b5a3b92db82052a8369252d869e6ed.scn"]
+source_file="res://assets-cenário/Models/FBX format/cutting-board-japanese.fbx"
+dest_files=["res://.godot/imported/cutting-board-japanese.fbx-06a13862f14d0add4ac98af7f0ca9af3.scn"]
 
 [params]
 

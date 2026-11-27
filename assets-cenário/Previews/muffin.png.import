@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2lgai68g35dl"
-path="res://.godot/imported/muffin.png-f1d3da1b5e0bbd7a926e0870cb7ba018.ctex"
+path="res://.godot/imported/muffin.png-55ed25519c9733e1966e368dde59cc93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/muffin.png"
-dest_files=["res://.godot/imported/muffin.png-f1d3da1b5e0bbd7a926e0870cb7ba018.ctex"]
+source_file="res://assets-cenário/Previews/muffin.png"
+dest_files=["res://.godot/imported/muffin.png-55ed25519c9733e1966e368dde59cc93.ctex"]
 
 [params]
 

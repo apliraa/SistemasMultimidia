@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ctawt8sydjbyl"
-path="res://.godot/imported/peanut-butter.fbx-65caeff5823d7e7f9193a32db1a7d5d7.scn"
+path="res://.godot/imported/peanut-butter.fbx-5624bb01f428d4b7bc8c17ce97997748.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/peanut-butter.fbx"
-dest_files=["res://.godot/imported/peanut-butter.fbx-65caeff5823d7e7f9193a32db1a7d5d7.scn"]
+source_file="res://assets-cenário/Models/FBX format/peanut-butter.fbx"
+dest_files=["res://.godot/imported/peanut-butter.fbx-5624bb01f428d4b7bc8c17ce97997748.scn"]
 
 [params]
 

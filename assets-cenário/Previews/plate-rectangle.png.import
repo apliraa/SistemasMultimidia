@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwngkbhn2dwux"
-path="res://.godot/imported/plate-rectangle.png-25bf781c4ed6eea141ed2c5dd7e3b6b2.ctex"
+path="res://.godot/imported/plate-rectangle.png-ea138c6f7412a10e536dcf62e8ce1354.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/plate-rectangle.png"
-dest_files=["res://.godot/imported/plate-rectangle.png-25bf781c4ed6eea141ed2c5dd7e3b6b2.ctex"]
+source_file="res://assets-cenário/Previews/plate-rectangle.png"
+dest_files=["res://.godot/imported/plate-rectangle.png-ea138c6f7412a10e536dcf62e8ce1354.ctex"]
 
 [params]
 

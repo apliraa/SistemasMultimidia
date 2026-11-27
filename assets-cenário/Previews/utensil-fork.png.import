@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkhod6h8dtkqv"
-path="res://.godot/imported/utensil-fork.png-04c9e3f0bef208a0f6e1cd22ab39f018.ctex"
+path="res://.godot/imported/utensil-fork.png-d24c0f235ec42d6f2e53bdb14b2bbd19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/utensil-fork.png"
-dest_files=["res://.godot/imported/utensil-fork.png-04c9e3f0bef208a0f6e1cd22ab39f018.ctex"]
+source_file="res://assets-cenário/Previews/utensil-fork.png"
+dest_files=["res://.godot/imported/utensil-fork.png-d24c0f235ec42d6f2e53bdb14b2bbd19.ctex"]
 
 [params]
 

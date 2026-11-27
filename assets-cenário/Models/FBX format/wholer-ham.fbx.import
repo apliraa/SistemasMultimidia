@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cp6266hb4np7f"
-path="res://.godot/imported/wholer-ham.fbx-257e892aa3e00cab24f1a4b404de8f00.scn"
+path="res://.godot/imported/wholer-ham.fbx-b95fd2b1156c2936f6713ec6e950b0d1.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/wholer-ham.fbx"
-dest_files=["res://.godot/imported/wholer-ham.fbx-257e892aa3e00cab24f1a4b404de8f00.scn"]
+source_file="res://assets-cenário/Models/FBX format/wholer-ham.fbx"
+dest_files=["res://.godot/imported/wholer-ham.fbx-b95fd2b1156c2936f6713ec6e950b0d1.scn"]
 
 [params]
 

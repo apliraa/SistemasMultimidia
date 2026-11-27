@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://db0vigdbehun3"
-path="res://.godot/imported/ginger-bread-cutter.fbx-ac4c065e729a831d93ad64e87607408c.scn"
+path="res://.godot/imported/ginger-bread-cutter.fbx-62d907e444bc67a43401fabdc2b60d1d.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/ginger-bread-cutter.fbx"
-dest_files=["res://.godot/imported/ginger-bread-cutter.fbx-ac4c065e729a831d93ad64e87607408c.scn"]
+source_file="res://assets-cenário/Models/FBX format/ginger-bread-cutter.fbx"
+dest_files=["res://.godot/imported/ginger-bread-cutter.fbx-62d907e444bc67a43401fabdc2b60d1d.scn"]
 
 [params]
 

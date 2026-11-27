@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy3m8p6frsp2e"
-path="res://.godot/imported/burger-cheese.png-0d1c9b11318efe59438f685e0d6da6c1.ctex"
+path="res://.godot/imported/burger-cheese.png-63e6eae7f0926bc8efaeac52301179b7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/burger-cheese.png"
-dest_files=["res://.godot/imported/burger-cheese.png-0d1c9b11318efe59438f685e0d6da6c1.ctex"]
+source_file="res://assets-cenário/Previews/burger-cheese.png"
+dest_files=["res://.godot/imported/burger-cheese.png-63e6eae7f0926bc8efaeac52301179b7.ctex"]
 
 [params]
 

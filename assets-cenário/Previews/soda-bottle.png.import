@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cic5kh4hisupg"
-path="res://.godot/imported/soda-bottle.png-c68d271dc65a825d23dc516f4f74d3a1.ctex"
+path="res://.godot/imported/soda-bottle.png-af27c5dc012e2f8313c8ff4b7064d120.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/soda-bottle.png"
-dest_files=["res://.godot/imported/soda-bottle.png-c68d271dc65a825d23dc516f4f74d3a1.ctex"]
+source_file="res://assets-cenário/Previews/soda-bottle.png"
+dest_files=["res://.godot/imported/soda-bottle.png-af27c5dc012e2f8313c8ff4b7064d120.ctex"]
 
 [params]
 

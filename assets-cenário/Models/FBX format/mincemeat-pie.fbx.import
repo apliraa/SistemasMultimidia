@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://g14r23cwvaa7"
-path="res://.godot/imported/mincemeat-pie.fbx-842a04bc1c58dcbe4874df4a651739bf.scn"
+path="res://.godot/imported/mincemeat-pie.fbx-0de7d7d9d2e47a20dd1caabfcbf46c54.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/mincemeat-pie.fbx"
-dest_files=["res://.godot/imported/mincemeat-pie.fbx-842a04bc1c58dcbe4874df4a651739bf.scn"]
+source_file="res://assets-cenário/Models/FBX format/mincemeat-pie.fbx"
+dest_files=["res://.godot/imported/mincemeat-pie.fbx-0de7d7d9d2e47a20dd1caabfcbf46c54.scn"]
 
 [params]
 

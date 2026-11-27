@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dwdesrgaeoduq"
-path="res://.godot/imported/cooking-spatula.fbx-6e8922d4896bd6dd0e9beab239d50103.scn"
+path="res://.godot/imported/cooking-spatula.fbx-544cf6456778957796463efafc5c5a29.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cooking-spatula.fbx"
-dest_files=["res://.godot/imported/cooking-spatula.fbx-6e8922d4896bd6dd0e9beab239d50103.scn"]
+source_file="res://assets-cenário/Models/FBX format/cooking-spatula.fbx"
+dest_files=["res://.godot/imported/cooking-spatula.fbx-544cf6456778957796463efafc5c5a29.scn"]
 
 [params]
 

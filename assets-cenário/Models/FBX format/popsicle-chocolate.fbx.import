@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cxtx33a4kaxa0"
-path="res://.godot/imported/popsicle-chocolate.fbx-dba9384ffd9ddf072c36153adaf5e18c.scn"
+path="res://.godot/imported/popsicle-chocolate.fbx-f273acc873abd165e1c163159ff54516.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/popsicle-chocolate.fbx"
-dest_files=["res://.godot/imported/popsicle-chocolate.fbx-dba9384ffd9ddf072c36153adaf5e18c.scn"]
+source_file="res://assets-cenário/Models/FBX format/popsicle-chocolate.fbx"
+dest_files=["res://.godot/imported/popsicle-chocolate.fbx-f273acc873abd165e1c163159ff54516.scn"]
 
 [params]
 

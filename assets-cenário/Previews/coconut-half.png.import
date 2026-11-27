@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2mq3qvtifys6"
-path="res://.godot/imported/coconut-half.png-7231993976704888e121ee9e44114815.ctex"
+path="res://.godot/imported/coconut-half.png-0f6dc675bfd7fd7b080c0d0505004adf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/coconut-half.png"
-dest_files=["res://.godot/imported/coconut-half.png-7231993976704888e121ee9e44114815.ctex"]
+source_file="res://assets-cenário/Previews/coconut-half.png"
+dest_files=["res://.godot/imported/coconut-half.png-0f6dc675bfd7fd7b080c0d0505004adf.ctex"]
 
 [params]
 

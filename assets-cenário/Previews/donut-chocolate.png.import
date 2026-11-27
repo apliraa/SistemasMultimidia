@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://muprrucs8x42"
-path="res://.godot/imported/donut-chocolate.png-9960cf21335c70728e96441111f30f57.ctex"
+path="res://.godot/imported/donut-chocolate.png-0c7d309f83e16246c12c13a010c5acb6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/donut-chocolate.png"
-dest_files=["res://.godot/imported/donut-chocolate.png-9960cf21335c70728e96441111f30f57.ctex"]
+source_file="res://assets-cenário/Previews/donut-chocolate.png"
+dest_files=["res://.godot/imported/donut-chocolate.png-0c7d309f83e16246c12c13a010c5acb6.ctex"]
 
 [params]
 

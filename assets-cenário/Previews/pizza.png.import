@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvob642jjpmot"
-path="res://.godot/imported/pizza.png-65ea3a87f8ac8a2a3737db7d592dad59.ctex"
+path="res://.godot/imported/pizza.png-be3d40ffc5050c24d6e250bc82b75a75.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/pizza.png"
-dest_files=["res://.godot/imported/pizza.png-65ea3a87f8ac8a2a3737db7d592dad59.ctex"]
+source_file="res://assets-cenário/Previews/pizza.png"
+dest_files=["res://.godot/imported/pizza.png-be3d40ffc5050c24d6e250bc82b75a75.ctex"]
 
 [params]
 

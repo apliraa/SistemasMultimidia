@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjs26vd82k6vx"
-path="res://.godot/imported/taco.png-6b1c8465b38b8a498a7597d74c15da65.ctex"
+path="res://.godot/imported/taco.png-4643c56e32326914bf9d69db391f325a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/taco.png"
-dest_files=["res://.godot/imported/taco.png-6b1c8465b38b8a498a7597d74c15da65.ctex"]
+source_file="res://assets-cenário/Previews/taco.png"
+dest_files=["res://.godot/imported/taco.png-4643c56e32326914bf9d69db391f325a.ctex"]
 
 [params]
 

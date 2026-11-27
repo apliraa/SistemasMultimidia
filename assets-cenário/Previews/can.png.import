@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwwg0jm501yc7"
-path="res://.godot/imported/can.png-1c0dfb580c37f1dc831af12252675840.ctex"
+path="res://.godot/imported/can.png-cf2ab62a30f48185e938b5b187ded8a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/can.png"
-dest_files=["res://.godot/imported/can.png-1c0dfb580c37f1dc831af12252675840.ctex"]
+source_file="res://assets-cenário/Previews/can.png"
+dest_files=["res://.godot/imported/can.png-cf2ab62a30f48185e938b5b187ded8a9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyq346p8k45hc"
-path="res://.godot/imported/candy-bar-wrapper.png-5e0a3697dc3c86c891ca88e464beee46.ctex"
+path="res://.godot/imported/candy-bar-wrapper.png-1deed3f6c5e63962eaea92be0b7a2d7e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/candy-bar-wrapper.png"
-dest_files=["res://.godot/imported/candy-bar-wrapper.png-5e0a3697dc3c86c891ca88e464beee46.ctex"]
+source_file="res://assets-cenário/Previews/candy-bar-wrapper.png"
+dest_files=["res://.godot/imported/candy-bar-wrapper.png-1deed3f6c5e63962eaea92be0b7a2d7e.ctex"]
 
 [params]
 

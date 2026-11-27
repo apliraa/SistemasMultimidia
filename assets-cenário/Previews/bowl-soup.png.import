@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy7ir882da0qv"
-path="res://.godot/imported/bowl-soup.png-9e843591a57525a6d202de0037746c7b.ctex"
+path="res://.godot/imported/bowl-soup.png-3eb15b2641bc96e7a37e803963710e38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/bowl-soup.png"
-dest_files=["res://.godot/imported/bowl-soup.png-9e843591a57525a6d202de0037746c7b.ctex"]
+source_file="res://assets-cenário/Previews/bowl-soup.png"
+dest_files=["res://.godot/imported/bowl-soup.png-3eb15b2641bc96e7a37e803963710e38.ctex"]
 
 [params]
 

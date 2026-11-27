@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0g487as03bp3"
-path="res://.godot/imported/chopstic-decorative.png-b65cd8370d22c0561021c3cccfee3f7c.ctex"
+path="res://.godot/imported/chopstic-decorative.png-4c0742e99eecf4770990221c0f4f3158.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/chopstic-decorative.png"
-dest_files=["res://.godot/imported/chopstic-decorative.png-b65cd8370d22c0561021c3cccfee3f7c.ctex"]
+source_file="res://assets-cenário/Previews/chopstic-decorative.png"
+dest_files=["res://.godot/imported/chopstic-decorative.png-4c0742e99eecf4770990221c0f4f3158.ctex"]
 
 [params]
 

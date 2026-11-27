@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://doclkfpfwsiuo"
-path="res://.godot/imported/maki-salmon.fbx-b697622360dd471809a888fb83ee17af.scn"
+path="res://.godot/imported/maki-salmon.fbx-52e76c82a996fdea8d9cda6a99e767b5.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/maki-salmon.fbx"
-dest_files=["res://.godot/imported/maki-salmon.fbx-b697622360dd471809a888fb83ee17af.scn"]
+source_file="res://assets-cenário/Models/FBX format/maki-salmon.fbx"
+dest_files=["res://.godot/imported/maki-salmon.fbx-52e76c82a996fdea8d9cda6a99e767b5.scn"]
 
 [params]
 

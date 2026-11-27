@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://csvqd5wj3vsln"
-path="res://.godot/imported/wine-white.fbx-7cde43c9e8349aa93d8e8f867e639fe3.scn"
+path="res://.godot/imported/wine-white.fbx-9d081277d3d280e187b8ba5e52d869e7.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/wine-white.fbx"
-dest_files=["res://.godot/imported/wine-white.fbx-7cde43c9e8349aa93d8e8f867e639fe3.scn"]
+source_file="res://assets-cenário/Models/FBX format/wine-white.fbx"
+dest_files=["res://.godot/imported/wine-white.fbx-9d081277d3d280e187b8ba5e52d869e7.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duiasecvuqbx1"
-path="res://.godot/imported/corn.png-a3d51b55d39cdd74c52ac2ab4d7e8568.ctex"
+path="res://.godot/imported/corn.png-f955c35cdfb97f3212f80e1247ebc9b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/corn.png"
-dest_files=["res://.godot/imported/corn.png-a3d51b55d39cdd74c52ac2ab4d7e8568.ctex"]
+source_file="res://assets-cenário/Previews/corn.png"
+dest_files=["res://.godot/imported/corn.png-f955c35cdfb97f3212f80e1247ebc9b6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfyx75hcubibv"
-path="res://.godot/imported/chinese.png-b55c5707ac2b0796dfd70b211718d88a.ctex"
+path="res://.godot/imported/chinese.png-0c990c25ff3fa11abde1f0228e9f3ab4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/chinese.png"
-dest_files=["res://.godot/imported/chinese.png-b55c5707ac2b0796dfd70b211718d88a.ctex"]
+source_file="res://assets-cenário/Previews/chinese.png"
+dest_files=["res://.godot/imported/chinese.png-0c990c25ff3fa11abde1f0228e9f3ab4.ctex"]
 
 [params]
 

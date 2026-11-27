@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b3t2mdedofnr"
-path="res://.godot/imported/carton-small.fbx-7cb74bab129b0f31d46245be4fb39399.scn"
+path="res://.godot/imported/carton-small.fbx-b7f6cfa17273b4211285079d8943a7fd.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/carton-small.fbx"
-dest_files=["res://.godot/imported/carton-small.fbx-7cb74bab129b0f31d46245be4fb39399.scn"]
+source_file="res://assets-cenário/Models/FBX format/carton-small.fbx"
+dest_files=["res://.godot/imported/carton-small.fbx-b7f6cfa17273b4211285079d8943a7fd.scn"]
 
 [params]
 

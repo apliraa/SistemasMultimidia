@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://blf1f5t6h8gci"
-path="res://.godot/imported/chopstick.fbx-72d870274d588dd1fa7b50ee1f742993.scn"
+path="res://.godot/imported/chopstick.fbx-04d7ec92e0543298ee5b54ed6e401930.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/chopstick.fbx"
-dest_files=["res://.godot/imported/chopstick.fbx-72d870274d588dd1fa7b50ee1f742993.scn"]
+source_file="res://assets-cenário/Models/FBX format/chopstick.fbx"
+dest_files=["res://.godot/imported/chopstick.fbx-04d7ec92e0543298ee5b54ed6e401930.scn"]
 
 [params]
 

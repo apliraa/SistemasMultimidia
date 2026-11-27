@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmkmxe2t4gncb"
-path="res://.godot/imported/egg-cooked.fbx-d784735a98794c08615c5ccbd430db40.scn"
+path="res://.godot/imported/egg-cooked.fbx-2a31202732c6ce65776eb1cee1f7cf27.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/egg-cooked.fbx"
-dest_files=["res://.godot/imported/egg-cooked.fbx-d784735a98794c08615c5ccbd430db40.scn"]
+source_file="res://assets-cenário/Models/FBX format/egg-cooked.fbx"
+dest_files=["res://.godot/imported/egg-cooked.fbx-2a31202732c6ce65776eb1cee1f7cf27.scn"]
 
 [params]
 

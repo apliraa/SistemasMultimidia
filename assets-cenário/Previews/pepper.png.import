@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7lr1fmsiew0o"
-path="res://.godot/imported/pepper.png-a2defe55673067905164a27832743a10.ctex"
+path="res://.godot/imported/pepper.png-d4cd05dbaa13a7d2a304367611f1347d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/pepper.png"
-dest_files=["res://.godot/imported/pepper.png-a2defe55673067905164a27832743a10.ctex"]
+source_file="res://assets-cenário/Previews/pepper.png"
+dest_files=["res://.godot/imported/pepper.png-d4cd05dbaa13a7d2a304367611f1347d.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ekcv5svi26uf"
-path="res://.godot/imported/radish.fbx-74487f126da05ad8f922341c55e6cf88.scn"
+path="res://.godot/imported/radish.fbx-5ebb18bd1baeb853199d0bc071150d88.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/radish.fbx"
-dest_files=["res://.godot/imported/radish.fbx-74487f126da05ad8f922341c55e6cf88.scn"]
+source_file="res://assets-cenário/Models/FBX format/radish.fbx"
+dest_files=["res://.godot/imported/radish.fbx-5ebb18bd1baeb853199d0bc071150d88.scn"]
 
 [params]
 

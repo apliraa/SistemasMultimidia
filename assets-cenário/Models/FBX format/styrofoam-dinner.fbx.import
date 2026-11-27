@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cf5hay0mupa1n"
-path="res://.godot/imported/styrofoam-dinner.fbx-2137e14fef5705fdb2d6459084cb0f89.scn"
+path="res://.godot/imported/styrofoam-dinner.fbx-278a35107e2602f8ffd1c74b4d7b8e78.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/styrofoam-dinner.fbx"
-dest_files=["res://.godot/imported/styrofoam-dinner.fbx-2137e14fef5705fdb2d6459084cb0f89.scn"]
+source_file="res://assets-cenário/Models/FBX format/styrofoam-dinner.fbx"
+dest_files=["res://.godot/imported/styrofoam-dinner.fbx-278a35107e2602f8ffd1c74b4d7b8e78.scn"]
 
 [params]
 

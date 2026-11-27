@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://i1bicou6ykcb"
-path="res://.godot/imported/loaf-baguette.fbx-ed1c8e879aac3c25d21032558c24ef94.scn"
+path="res://.godot/imported/loaf-baguette.fbx-bdc3da7bff23e001e02946e00975a5fe.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/loaf-baguette.fbx"
-dest_files=["res://.godot/imported/loaf-baguette.fbx-ed1c8e879aac3c25d21032558c24ef94.scn"]
+source_file="res://assets-cenário/Models/FBX format/loaf-baguette.fbx"
+dest_files=["res://.godot/imported/loaf-baguette.fbx-bdc3da7bff23e001e02946e00975a5fe.scn"]
 
 [params]
 

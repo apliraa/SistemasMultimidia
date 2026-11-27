@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be3ofdog3g2ey"
-path="res://.godot/imported/maki-salmon.png-9262e45d2e1833c43d3d58c7153e312d.ctex"
+path="res://.godot/imported/maki-salmon.png-837501f63f46b1b2fbf3432dd5bd0b85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/maki-salmon.png"
-dest_files=["res://.godot/imported/maki-salmon.png-9262e45d2e1833c43d3d58c7153e312d.ctex"]
+source_file="res://assets-cenário/Previews/maki-salmon.png"
+dest_files=["res://.godot/imported/maki-salmon.png-837501f63f46b1b2fbf3432dd5bd0b85.ctex"]
 
 [params]
 

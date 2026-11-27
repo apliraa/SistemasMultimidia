@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://sp5hks3afttm"
-path="res://.godot/imported/chocolate-wrapper.fbx-16ccb0bee83771672fec2ab4c592581a.scn"
+path="res://.godot/imported/chocolate-wrapper.fbx-2b0a692e5ce7cd77fbd3b069bc500854.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/chocolate-wrapper.fbx"
-dest_files=["res://.godot/imported/chocolate-wrapper.fbx-16ccb0bee83771672fec2ab4c592581a.scn"]
+source_file="res://assets-cenário/Models/FBX format/chocolate-wrapper.fbx"
+dest_files=["res://.godot/imported/chocolate-wrapper.fbx-2b0a692e5ce7cd77fbd3b069bc500854.scn"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de1ulssfucoeu"
-path="res://.godot/imported/leek.png-a2c0ccca0e299cff1330d5df8bbe0c55.ctex"
+path="res://.godot/imported/leek.png-eaf2053074858c138825a232d8241466.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/leek.png"
-dest_files=["res://.godot/imported/leek.png-a2c0ccca0e299cff1330d5df8bbe0c55.ctex"]
+source_file="res://assets-cenário/Previews/leek.png"
+dest_files=["res://.godot/imported/leek.png-eaf2053074858c138825a232d8241466.ctex"]
 
 [params]
 

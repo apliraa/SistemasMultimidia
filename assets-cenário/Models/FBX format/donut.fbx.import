@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b43m8miqp0bph"
-path="res://.godot/imported/donut.fbx-f9c05957a25a00ed86f2316fa665fef8.scn"
+path="res://.godot/imported/donut.fbx-53effba3b0f5d6c1cb16575ecbcde29b.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/donut.fbx"
-dest_files=["res://.godot/imported/donut.fbx-f9c05957a25a00ed86f2316fa665fef8.scn"]
+source_file="res://assets-cenário/Models/FBX format/donut.fbx"
+dest_files=["res://.godot/imported/donut.fbx-53effba3b0f5d6c1cb16575ecbcde29b.scn"]
 
 [params]
 

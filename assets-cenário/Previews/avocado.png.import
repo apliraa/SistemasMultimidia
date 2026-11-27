@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5352d3nolmcq"
-path="res://.godot/imported/avocado.png-49f846fac2c2c03b1c1cb9e26f68e791.ctex"
+path="res://.godot/imported/avocado.png-9d7e7d56e89a777425bc65e694fce683.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/avocado.png"
-dest_files=["res://.godot/imported/avocado.png-49f846fac2c2c03b1c1cb9e26f68e791.ctex"]
+source_file="res://assets-cenário/Previews/avocado.png"
+dest_files=["res://.godot/imported/avocado.png-9d7e7d56e89a777425bc65e694fce683.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d0ip003wmd76e"
-path="res://.godot/imported/burger-cheese-double.fbx-49550a239e46854c4a3f4cbd0cdbc397.scn"
+path="res://.godot/imported/burger-cheese-double.fbx-ab6d1109b38cf853fe1d1f8ec6ea13d1.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/burger-cheese-double.fbx"
-dest_files=["res://.godot/imported/burger-cheese-double.fbx-49550a239e46854c4a3f4cbd0cdbc397.scn"]
+source_file="res://assets-cenário/Models/FBX format/burger-cheese-double.fbx"
+dest_files=["res://.godot/imported/burger-cheese-double.fbx-ab6d1109b38cf853fe1d1f8ec6ea13d1.scn"]
 
 [params]
 

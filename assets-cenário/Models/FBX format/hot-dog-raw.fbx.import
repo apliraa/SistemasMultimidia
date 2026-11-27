@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cmiifhc1h3m6g"
-path="res://.godot/imported/hot-dog-raw.fbx-9d4993e3c2131a120f5a35c878cb7467.scn"
+path="res://.godot/imported/hot-dog-raw.fbx-7ab99ecd9464c70e76c4de3e50c04631.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/hot-dog-raw.fbx"
-dest_files=["res://.godot/imported/hot-dog-raw.fbx-9d4993e3c2131a120f5a35c878cb7467.scn"]
+source_file="res://assets-cenário/Models/FBX format/hot-dog-raw.fbx"
+dest_files=["res://.godot/imported/hot-dog-raw.fbx-7ab99ecd9464c70e76c4de3e50c04631.scn"]
 
 [params]
 

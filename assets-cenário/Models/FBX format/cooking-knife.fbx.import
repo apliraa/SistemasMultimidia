@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://djbegim0s4i7y"
-path="res://.godot/imported/cooking-knife.fbx-b306cf3b42e094e661acae90b00441e8.scn"
+path="res://.godot/imported/cooking-knife.fbx-1cfc58724c1d3facbc624c1d2aa1ec5b.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cooking-knife.fbx"
-dest_files=["res://.godot/imported/cooking-knife.fbx-b306cf3b42e094e661acae90b00441e8.scn"]
+source_file="res://assets-cenário/Models/FBX format/cooking-knife.fbx"
+dest_files=["res://.godot/imported/cooking-knife.fbx-1cfc58724c1d3facbc624c1d2aa1ec5b.scn"]
 
 [params]
 

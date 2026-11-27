@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c77s52ky6ynco"
-path="res://.godot/imported/pot-stew-lid.fbx-bbe83fb43ba53b8e02d3e5ba941cfe45.scn"
+path="res://.godot/imported/pot-stew-lid.fbx-f645a2b1edf1916d03a24a6261b71a72.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/pot-stew-lid.fbx"
-dest_files=["res://.godot/imported/pot-stew-lid.fbx-bbe83fb43ba53b8e02d3e5ba941cfe45.scn"]
+source_file="res://assets-cenário/Models/FBX format/pot-stew-lid.fbx"
+dest_files=["res://.godot/imported/pot-stew-lid.fbx-f645a2b1edf1916d03a24a6261b71a72.scn"]
 
 [params]
 

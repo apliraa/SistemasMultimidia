@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cowd3iej8ccql"
-path="res://.godot/imported/onion-half.fbx-620394e155b650c4c3ab590411fc4f72.scn"
+path="res://.godot/imported/onion-half.fbx-f0e9bdb7150243d5a6a581db14e20b61.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/onion-half.fbx"
-dest_files=["res://.godot/imported/onion-half.fbx-620394e155b650c4c3ab590411fc4f72.scn"]
+source_file="res://assets-cenário/Models/FBX format/onion-half.fbx"
+dest_files=["res://.godot/imported/onion-half.fbx-f0e9bdb7150243d5a6a581db14e20b61.scn"]
 
 [params]
 

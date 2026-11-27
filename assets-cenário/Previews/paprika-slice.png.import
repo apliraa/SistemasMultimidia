@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btt8wyka1hsrc"
-path="res://.godot/imported/paprika-slice.png-2f01c96ffb5e1bb998471a852536d204.ctex"
+path="res://.godot/imported/paprika-slice.png-cbadc3a30f5204b2c1359c2b3af925fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kenney_food-kit/Previews/paprika-slice.png"
-dest_files=["res://.godot/imported/paprika-slice.png-2f01c96ffb5e1bb998471a852536d204.ctex"]
+source_file="res://assets-cenário/Previews/paprika-slice.png"
+dest_files=["res://.godot/imported/paprika-slice.png-cbadc3a30f5204b2c1359c2b3af925fc.ctex"]
 
 [params]
 

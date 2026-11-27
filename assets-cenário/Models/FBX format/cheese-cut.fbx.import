@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xbuly67fobi7"
-path="res://.godot/imported/cheese-cut.fbx-d1ea5e3376106f6473501e78b0f7b36c.scn"
+path="res://.godot/imported/cheese-cut.fbx-4062e7712c0abc2c1190f79edea1822e.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/cheese-cut.fbx"
-dest_files=["res://.godot/imported/cheese-cut.fbx-d1ea5e3376106f6473501e78b0f7b36c.scn"]
+source_file="res://assets-cenário/Models/FBX format/cheese-cut.fbx"
+dest_files=["res://.godot/imported/cheese-cut.fbx-4062e7712c0abc2c1190f79edea1822e.scn"]
 
 [params]
 

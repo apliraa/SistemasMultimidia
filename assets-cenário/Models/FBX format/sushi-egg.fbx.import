@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cikxvp4bu7wxu"
-path="res://.godot/imported/sushi-egg.fbx-8f1a96abdccef06df7a432f7dd3247bc.scn"
+path="res://.godot/imported/sushi-egg.fbx-3853f65259ec306094e875f89645439e.scn"
 
 [deps]
 
-source_file="res://kenney_food-kit/Models/FBX format/sushi-egg.fbx"
-dest_files=["res://.godot/imported/sushi-egg.fbx-8f1a96abdccef06df7a432f7dd3247bc.scn"]
+source_file="res://assets-cenário/Models/FBX format/sushi-egg.fbx"
+dest_files=["res://.godot/imported/sushi-egg.fbx-3853f65259ec306094e875f89645439e.scn"]
 
 [params]
 
