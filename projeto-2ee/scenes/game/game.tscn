@@ -5,26 +5,35 @@
 [ext_resource type="PackedScene" uid="uid://cxcutting001" path="res://scenes/objects/cutting_counter.tscn" id="3_cut"]
 [ext_resource type="PackedScene" uid="uid://cxpan001" path="res://scenes/objects/pan_counter.tscn" id="4_pan"]
 [ext_resource type="PackedScene" uid="uid://cxcounter001" path="res://scenes/objects/counter.tscn" id="5_counter"]
+[ext_resource type="Script" uid="uid://1youi3erboot" path="res://scripts/game_manager.gd" id="6_gm"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_k41lo"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_k41lo"]
-size = Vector3(19.616657, 1, 15.862961)
+size = Vector3(100, 1, 100)
 
 [sub_resource type="BoxMesh" id="BoxMesh_f6wxy"]
-size = Vector3(19.671997, 1, 15.924271)
+size = Vector3(100, 1, 100)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_spot"]
+albedo_color = Color(0.18, 0.55, 0.95, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_spot"]
+material = SubResource("StandardMaterial3D_spot")
+size = Vector3(1.2, 0.02, 1.2)
 
 [node name="Game" type="Node3D" unique_id=1462864017]
+
+[node name="GameManager" type="Node" parent="." unique_id=1523341968]
+script = ExtResource("6_gm")
 
 [node name="StaticBody3D" type="StaticBody3D" parent="." unique_id=550231314]
 physics_material_override = SubResource("PhysicsMaterial_k41lo")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" unique_id=960957432]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.10212517, 0, -0.014701843)
 shape = SubResource("BoxShape3D_k41lo")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="StaticBody3D" unique_id=1416031477]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.10565758, 0, -0.005034685)
 mesh = SubResource("BoxMesh_f6wxy")
 
 [node name="player" parent="." unique_id=1188381419 instance=ExtResource("1_sul5r")]
@@ -41,6 +50,18 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, -2)
 
 [node name="Counter" parent="." unique_id=939482968 instance=ExtResource("5_counter")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 1, -2)
+
+[node name="SpotSquare1" type="MeshInstance3D" parent="." unique_id=425607508]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.5, 0.51, -2.5)
+mesh = SubResource("BoxMesh_spot")
+
+[node name="SpotSquare2" type="MeshInstance3D" parent="." unique_id=853491493]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0.51, -2.5)
+mesh = SubResource("BoxMesh_spot")
+
+[node name="SpotSquare3" type="MeshInstance3D" parent="." unique_id=1766916538]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.5, 0.51, -2.5)
+mesh = SubResource("BoxMesh_spot")
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=1633091515]
 transform = Transform3D(1, 0, 0, 0, 0.35928565, 0.9332277, 0, -0.9332277, 0.35928565, 0, 9.825609, 5.540533)
